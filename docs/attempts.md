@@ -91,3 +91,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### SABLE 验收通过，进入结算
 
 2026-09-19T17:50:49+08:00 核实[买方验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884)：250 美元固定费用应付；到账仍为 0。已询问私下联系渠道，PayPal 是原约定，Base USDC 尚未获批准。此前“待验收”是当时状态，现已被本次回复更新。
+
+
+### 验收后的候选核查
+
+2026-09-19 17:54：qmrkt 赏金已关闭，NSPG13 #894 未注资，DeskCrew 要求预付参赛费用，Collaborators 未核实到具体可接任务。无新增申请或到账；[来源与观察](../evidence/post-acceptance-screening.json)。

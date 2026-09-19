@@ -32,6 +32,8 @@
 
 最新筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。此筛选发生在 SABLE 确认回复被检查之前。
 
+验收后的[候选筛选](evidence/post-acceptance-screening.json)未新增可执行订单；到账和应收金额未变化。
+
 待回复事项集中在[等待清单](docs/waiting-list.md)。提交后继续寻找其他机会，收到查询或实际回复通知时再检查。
 
 ## 阅读顺序

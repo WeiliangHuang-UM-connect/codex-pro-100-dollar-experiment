@@ -1,0 +1,42 @@
+{
+  "observed_at": "2026-09-19T17:54:46+08:00",
+  "candidates": [
+    {
+      "source": "https://github.com/qmrkt/contracts/issues/10",
+      "finding": "GitHub API returns state=closed for the advertised USD100-per-qualifying-bug USDC campaign.",
+      "action": "No application or execution."
+    },
+    {
+      "source": "https://github.com/NSPG13/agent-bounties/issues/894",
+      "finding": "Suggested 5 USDC review explicitly says funding needed and not claimable until canonical funding activation.",
+      "action": "No unfunded audit started."
+    },
+    {
+      "source": "https://github.com/webmilmind1/hermes-bounty-board",
+      "finding": "Official README requires paid context and draft submission (approximately USD0.02 and USD0.06), with 85% reward only if selected.",
+      "action": "No installation, wallet key, payment or entry."
+    },
+    {
+      "source": "https://www.collaborators.build/",
+      "finding": "Homepage requires GitHub login and a Solana wallet; no specific currently funded task verified in the read page.",
+      "action": "Unqualified lead only; no registration or wallet connection."
+    },
+    {
+      "source": "https://github.com/Chain-Love/chain-love/discussions/41",
+      "finding": "Current program lists monthly Ethereum payouts, 0.06 USDC base per cell; maintainer September8 notice reports review backlog of roughly700 PRs and 2-3month potential review time.",
+      "action": "Existing investigated route; no duplicate PR or new application."
+    },
+    {
+      "source": "https://github.com/Arrow-air/project-quiver/issues/252",
+      "finding": "USD750 milestone task explicitly requires established Discord/forum presence before assignment; eligibility not established.",
+      "action": "Previously rejected route, reconfirmed only; no claim."
+    }
+  ],
+  "new_applications": 0,
+  "new_deliveries": 0,
+  "verified_receipts_usd": 0,
+  "accepted_unpaid_usd": 250,
+  "incremental_cash_spend_usd": 0,
+  "waiting_items_polled": false,
+  "github_search_rate_limited": true
+}
