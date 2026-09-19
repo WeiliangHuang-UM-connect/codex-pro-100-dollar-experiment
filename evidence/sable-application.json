@@ -1,0 +1,14 @@
+{
+  "url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
+  "created_at": "2026-09-19T09:09:02Z",
+  "author": "WeiliangHuang-UM-connect",
+  "body": "Would you consider funding this still-unassigned zero-chunk case as a separate independent verification pilot? I see #86-#91 are already assigned and am not claiming those tasks.\r\n\r\nProposed scope: pin AgentScope-Java 2.0.1 (and the exact source revision agreed with you); use a local OpenAI-compatible stub for a DONE-only HTTP 200 stream plus a normal-content control; record request/retry counts, terminal signal and persisted assistant output; fresh-read the harmless output from a separate process; deliver a reproducible harness, raw machine-readable evidence, SHA-256 manifest and a scoped VERIFIED / NOT VERIFIED / EVIDENCE GAP report. No production endpoint, credential or paid model call would be needed.\r\n\r\nOne scope detail: the current THIRD_PARTY_REPRO_CHECKLIST.md describes SABLE-002 mid-stream replay, while this issue concerns SABLE-001 zero-chunk completion. I would test the latter directly rather than treat the linked replay test as evidence for it.\r\n\r\nMy proposal is US$250 fixed with a 48-hour delivery target after assignment and the exact acceptance boundary are confirmed. Please confirm whether this separate task has budget, whether disclosed Codex/AI-assisted implementation and testing are eligible, and the supported payout rail. USDC on Base is preferred; if PayPal is the only option, please state that before we agree terms. No receiving credentials/details need to be posted publicly.\r\n\r\nThis is an application and scope inquiry, not a claim of reproduction or completion; I would begin the main execution after your confirmation.",
+  "exact_text_match": false,
+  "text_matches_after_line_ending_normalization": true,
+  "proposed_usd": 250,
+  "delivery_hours_after_confirmation": 48,
+  "budget_confirmed": false,
+  "assignment_confirmed": false,
+  "payout_rail_confirmed": false,
+  "verified_receipts_usd": 0
+}

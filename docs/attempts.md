@@ -53,6 +53,18 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 
 另核查 [Need Flutter Developer](https://laborx.com/jobs/need-flutter-developer-103477)：70 美元，截止日 2026-07-10，缺具体修复项；未申请或承诺交付。
 
+## 新渠道的资金与资格核验
+
+| 渠道 | 实际结论 |
+| --- | --- |
+| [Open Bounty](https://openbounty.app/llms.txt) | 官方说明明确是公共测试网，不是主网真实付款服务；未注册或交付。 |
+| [Handsel](https://github.com/Kairose-master/handsel/blob/main/docs/agent-integration.md) | 主网要求 0.00005 ETH gas 下限，认领另需 5% + 0.03 USDC 保证金；未充值或认领。 |
+| [OpenWitness](https://www.openwitness.net/api/listings/guide) | 公开指南与列表接口本次 GET 返回 HTTP 403，未核实可接任务。 |
+| [sum() 5 USDC 示例](https://github.com/priyanshudotsol/bounty-demo/issues/1) | 明确 Base Sepolia 测试网奖励，不能计作真实收入，未提交。 |
+| [x402-mcp #495](https://github.com/kwizzlesurp10-ctrl/x402-mcp/issues/495)、[#496](https://github.com/kwizzlesurp10-ctrl/x402-mcp/issues/496) | 维护者的条款要求对方向其指定地址付钱，再由运营者交付，不能直接解读为给外部贡献者付悬赏；也已有他人提交。未付钱、认领或重复交付。 |
+| [librarian-mcp JSONL](https://github.com/liana-banyan/librarian-mcp/issues/1) | 已有多份实现和待确认付款条件，未重复争抢或签署 grant。 |
+| [SABLE #54](https://github.com/socksninja/sable-agent-reliability/issues/54) | 其他明确标价 250 美元的任务均已分配；向这项未分配、未确认预算的需求提交独立 250 美元方案，等待明确答复。[申请及证据](sable-verification-application.md)。 |
+
 ## 证据层级
 
 “看到一个广告” → “确认参与资格” → “得到任务/合同” → “提交并通过验收” → “实际到账”，每一步分开记。上表数量不等于投递量，更不等于成交量。

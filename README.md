@@ -28,6 +28,8 @@
 
 另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在；当前 LaborX 共 3 份已核实提交的申请，均未确认成交。
 
+另外已发送 [SABLE 独立验证付费申请](docs/sable-verification-application.md)，提出 250 美元方案；这项预算、分配和收款方式尚未获维护者确认。
+
 待回复事项集中在[等待清单](docs/waiting-list.md)。提交后继续寻找其他机会，收到查询或实际回复通知时再检查。
 
 ## 阅读顺序
