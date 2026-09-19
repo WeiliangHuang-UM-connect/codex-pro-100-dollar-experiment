@@ -1,5 +1,5 @@
 {
-  "observed_at": "2026-09-19T16:58:23+08:00",
+  "observed_at": "2026-09-19T17:00:49+08:00",
   "job_url": "https://laborx.com/jobs/data-operations-amp-product-engineer-102259",
   "listed_budget_usd": 500,
   "listed_deadline": "2026-05-01",
@@ -8,7 +8,9 @@
   "old_job_still_open_confirmed": false,
   "proposed_pilot_usd": 150,
   "proposed_deadline_days": 3,
-  "application_sent": false,
+  "application_sent": true,
   "buyer_response": false,
-  "verified_receipts_usd": 0
+  "verified_receipts_usd": 0,
+  "explicit_user_approval_received": true,
+  "submission_verification": "After Send, My Jobs displayed the exact job link and full application text with Budget $150, Deadline 3 days, and Chat."
 }

@@ -49,7 +49,7 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 | --- | --- |
 | [CoinGecko bot reliability](https://laborx.com/jobs/enhance-coingecko-bot-reliability-96610) | 标价 300 美元，但截止日 2025-09-24；没有确认仍招人，未申请或写交付代码。 |
 | [Community Calendar Manager](https://laborx.com/jobs/community-calendar-manager-content-curator-104725) | 近期广告，实际每周 100 美元 BTC、持续至少 3 个月，需视频面试与人工持续值守；未承诺参与。 |
-| [Data Operations & Product Engineer](https://laborx.com/jobs/data-operations-amp-product-engineer-102259) | 旧岗位，同一买方近期仍发需求。已准备单独 150 美元 CSV 导入试单询问，尚未发送或获分配；[全文](data-import-pilot-application.md)。 |
+| [Data Operations & Product Engineer](https://laborx.com/jobs/data-operations-amp-product-engineer-102259) | 旧岗位，同一买方近期仍发需求。经用户批准已提交单独 150 美元 CSV 导入试单询问，My Jobs 核实完整申请及 3 天工期；尚未获买方接受或分配；[全文](data-import-pilot-application.md)。 |
 
 ## 证据层级
 
