@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:35:03+08:00",
+  "updated_at": "2026-09-19T19:53:50+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -98,6 +98,19 @@
       "buyer_says_money_request_initiated": false,
       "paypal_destination_reconfirmed_at": "2026-09-19T11:17:38Z",
       "destination_reconfirmation_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741386298"
+    },
+    {
+      "id": "laborx-sqlite-103220",
+      "kind": "application",
+      "source_url": "https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220",
+      "recipient": "Aimen ,.",
+      "status": "submitted_awaiting_buyer_reply",
+      "amount_usd_proposed": 50,
+      "delivery_days_proposed": 1,
+      "last_verified_at": "2026-09-19T19:53:50+08:00",
+      "waiting_for": "Whether the June listing is still available; schema/local-use scope, AI eligibility, payment rail and LaborX escrow funding",
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "My Jobs shows the complete submitted conditional proposal, Budget $50 and Deadline 1 day. No acceptance or funding established."
     }
   ]
 }

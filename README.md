@@ -26,7 +26,7 @@
 | 新增直接支付支出 | 0；现有订阅及模型消耗未计价 |
 | 是否完全无人介入 | 否，用户设置钱包、登录账户并确认具体对外申请 |
 
-另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在；当前 LaborX 共 3 份已核实提交的申请，均未确认成交。
+另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在。19:53 新增 [50 美元 SQLite API 条件申请](docs/sqlite-api-application.md)，同样先确认旧需求和托管付款；当前 LaborX 共 4 份已核实提交的申请，均未确认成交。
 
 最新进展：[SABLE 维护者已确认](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385) **250 美元验收后付款**并分配任务，允许 AI/Codex 辅助，48 小时交付目标。指定 PayPal，用户收款资料已私下发送；现已明确验收，250 美元应付但尚未到账。详见[申请与后续](docs/sable-verification-application.md)。
 

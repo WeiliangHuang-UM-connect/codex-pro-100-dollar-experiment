@@ -181,3 +181,11 @@ CSV 服务在 Posted 中仍显示 Visible / 120，Offers 与 In Progress 均为�
 ### 2026-09-19T19:38:50+08:00 — GitHub 悬赏与 AI 业务模式调查
 
 按用户要求核查 Expensify 的当前 Help Wanted 事项、贡献和 AI 审核规则，Algora/tscircuit 的公开授奖记录，并阅读 Inbox Zero 商业模式及三份自主 AI 业务复盘。发现 open 状态不代表悬赏未支付，收费入口不代表实际营收，作者自述也需单独标注。形成[研究笔记](github-bounties-ai-income-research.md)，未新增申请、账户或收入，未重新查询 SABLE。
+
+### 2026-09-19T19:53:50+08:00 — 新增 SQLite 条件申请，继续排除无效悬赏
+
+上一轮的研究提供了渠道规则，但未产生新订单。本轮读取当前仓库和账本后继续核查具体机会。codingo/dooked #1/#2、brock/node-reinstall #49 已有多个实现待审；illbnm/homelab-stack #13 要求特定模型使用证据且已有大量提交；没有追加重复申请。独立读取两个 Go 悬赏仓库的完整默认树，均仅有 README.md 和 main.go，缺少题目引用的源码。142 欧元评审任务明确 human-only，未代替用户参与。Omi 正式规则支持 AI 辅助和 PayPal，但三个 Paid Bounty 标签任务均涉及设备功能，未建立本环境的硬件验证条件；普通贡献奖励中的转录额度不是现金。
+
+转向已登录的 LaborX，发现 [SQLite 单表 CRUD 任务](https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220)范围明确、标价 50 美元，但广告发表于 6 月 24 日并要求当天完成。按现有统一授权发送一份条件申请，先确认旧需求是否仍在；拟用 Flask + SQLAlchemy，包含五个端点、输入校验、持久化、自动测试和运行说明。报价 50 美元等值，范围和托管资金落实后 1 天，含一次范围内修改；披露 Codex 辅助，询问 Base USDC 平台托管可行性。未声称旧截止日仍有效，未签合同或投入完整开发。
+
+发送后跳转 My Jobs，页面实际显示完整申请、Budget $50、Deadline 1 day，核实提交成功。浏览器新标签创建曾超时，复用原标签完成操作，未将超时猜成平台拒绝。详见[申请全文](sqlite-api-application.md)和[证据摘要](../evidence/sqlite-api-application.json)。LaborX 已核实申请从 3 增至 4，总付费范围申请从 4 增至 5；等待清单新增一项。其余等待事项未主动复查，SABLE 按用户要求暂不处理。实际到账仍为 0，既有应收未收 250 美元，新增直接支付支出 0。

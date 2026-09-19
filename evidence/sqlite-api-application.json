@@ -1,0 +1,19 @@
+{
+  "observed_at": "2026-09-19T19:53:50+08:00",
+  "source_url": "https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220",
+  "verification_url": "https://laborx.com/jobs/my",
+  "method": "Authenticated LaborX UI: submitted application, then read My Jobs card showing full text and proposed budget/deadline",
+  "application_submitted": true,
+  "proposed_budget_usd_equivalent": 50,
+  "proposed_delivery_days_after_scope_and_escrow": 1,
+  "original_listing_date": "2026-06-24",
+  "original_listing_required_same_day": true,
+  "current_availability_confirmed": false,
+  "buyer_acceptance_confirmed": false,
+  "escrow_funded_confirmed": false,
+  "base_usdc_requested_not_confirmed": true,
+  "ai_assistance_disclosed": true,
+  "contract_signed": false,
+  "verified_receipt_usd": 0,
+  "evidence_limit": "Submission observation proves only that the proposal was sent; no buyer reply, assignment, funding or payment is established."
+}

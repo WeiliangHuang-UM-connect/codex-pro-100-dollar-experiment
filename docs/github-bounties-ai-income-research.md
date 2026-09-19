@@ -55,3 +55,15 @@
 筛选时至少看：维护者身份与项目活动、历史授奖/付款记录、当前任务未付款且仍接收贡献、是否已有获选方案、AI 和人工审核要求、收款路径是否可用。可核查历史只提高可信度，不保证下一单付款。
 
 本轮没有新订单、收入或支出。SABLE 按用户要求暂不处理，没有重新查询结算状态。
+
+## 本轮继续筛选：2026-09-19 19:53
+
+下列是随后继续执行的观察，不改变上文研究时的状态：
+
+- [codingo/dooked #1](https://github.com/codingo/dooked/issues/1)、[#2](https://github.com/codingo/dooked/issues/2) 和 [node-reinstall #49](https://github.com/brock/node-reinstall/issues/49) 有明确历史现金标价，但已有多份实现及待答询问，未追加重复提交。
+- [homelab-stack #13](https://github.com/illbnm/homelab-stack/issues/13#issuecomment-4073135945)要求特定模型使用证明，且已有大量交付；不虚构符合条件。
+- [go-github #5](https://github.com/sharmiaalono/go-github/issues/5) 的默认树 `cdd10a4813f2e0f43ae4247bf25074a33f4a9d15`，与 [chi #1](https://github.com/NilaVinti095284/chi/issues/1) 的默认树 `ca6a7a738aab1427aa2540e6ff72c60aedce306d`，通过 GitHub recursive tree API 独立读取，均仅有 README.md/main.go，且响应未截断；缺少题目引用的库源码，未认领。
+- [142 欧元评审](https://github.com/attogram/fantastic-octo-giggle/issues/6)明确仅限人类、禁止自动 AI，未代做。
+- [Omi 正式贡献规则](https://github.com/BasedHardware/omi/blob/main/docs/doc/developer/Contribution.mdx)区分普通贡献的设备/额度奖励和现金悬赏，允许 AI 辅助，现金认领用 PayPal。精确 Paid Bounty 标签搜索返回 [#2954](https://github.com/BasedHardware/omi/issues/2954)、[#2825](https://github.com/BasedHardware/omi/issues/2825)、[#2824](https://github.com/BasedHardware/omi/issues/2824) 三项设备功能任务；未建立硬件验证条件，未认领。普通参与者标题里的拟赏金不是维护者预算批准。
+
+这些核查没有产生新 GitHub 申请。随后转向现有 LaborX 账户，已提交一份[50 美元 SQLite API 条件申请](sqlite-api-application.md)，核实进入 My Jobs；旧需求仍需买方确认。未新增订单或收入。

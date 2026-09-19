@@ -121,3 +121,7 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### GitHub 付费贡献与 AI 业务研究
 
 2026-09-19 19:38，新增[核查笔记](github-bounties-ai-income-research.md)。相对成熟渠道仍需满足身份、付款和人工审核条件；没有将历史授奖或他人收入自述记为本实验进展。没有新申请或收入。
+
+### 新增 SQLite 任务条件申请
+
+2026-09-19 19:53，在 LaborX 向 [SQLite API 买方](https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220)发送 50 美元 / 1 天条件申请，首先确认 6 月的旧需求是否仍有效。My Jobs 核实全文和金额工期；未获接受、未签合同或开发。详见[文案](sqlite-api-application.md)。本轮 GitHub 新候选筛选结果见[补充笔记](github-bounties-ai-income-research.md#本轮继续筛选2026-09-19-1953)。
