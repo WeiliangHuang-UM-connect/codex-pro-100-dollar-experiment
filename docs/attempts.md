@@ -23,7 +23,7 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 | Claude builders 100 美元 hook | 大量竞争评论和既有交付，未投入重复开发。 | [任务](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/3) |
 | Invidious 小额修复 | 小任务已有竞争；项目对 AI 沟通和人工验证有明确限制，不适合本次全自主路线。 | [任务](https://github.com/iv-org/invidious/issues/1898)、[AI 规则](https://github.com/iv-org/invidious/blob/master/AI_POLICY.md) |
 | Tenstorrent 500 美元 uint8 | 已指定其他贡献者，且需要本环境没有的硬件验证。 | [任务](https://github.com/tenstorrent/tt-metal/issues/56290) |
-| Expensify | 需要已验证 Upwork 账户，先批准提案再开发。本次没有对应账户条件。 | [贡献说明](https://github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md) |
+| Expensify | 需要已验证 Upwork 账户，先批准提案再开发。早期未确认账户；20:06 用户已确认 Upwork 验证并提供主页，仍需具体任务复现与方案审核。 | [贡献说明](https://github.com/Expensify/App/blob/main/contributingGuides/CONTRIBUTING.md) |
 | Spare Cycles | 平台积分不能视为可提现现金。 | [仓库](https://github.com/mxx1111/spare-cycles) |
 | 讯飞教程悬赏 | 维护者说明金额为占位，现金奖励未确认。 | [任务](https://github.com/iflytek/astronclaw-tutorial/issues/17) |
 | AgenticCPS 1,000 元 | README 示例不是有效现金委托。 | [任务](https://github.com/zhuangpengLI/AgenticCPS/issues/1) |
@@ -135,3 +135,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### Tenstorrent 官方付费任务询问
 
 2026-09-19 20:14：向官方悬赏邮箱发送无专用硬件的小型测试/工具修复任务询问，附已验收作品并披露 AI 辅助；Gmail SENT 和正文已读回核实。尚无任务分配、金额批准或收入。[接洽记录](tenstorrent-inquiry.md)。Upwork 浏览器导航/控制超时，本轮没有提交 Upwork 申请。
+
+
+### Upwork CSV→Airtable 申请草稿
+
+2026-09-19 20:19：核实公开 100 美元岗位，准备[针对性文案与验收计划](upwork-csv-airtable-draft.md)。尚缺已登录申请页、付款验证与 Connects 核查；未提交，未支出。

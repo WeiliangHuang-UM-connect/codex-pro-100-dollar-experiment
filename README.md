@@ -42,6 +42,8 @@
 
 20:14 新增[Tenstorrent 官方付费任务询问](docs/tenstorrent-inquiry.md)，请求可用 CPU 环境完成的小型测试/工具修复任务；邮件已发送并核实，尚未获得任务或预算。
 
+20:19 已准备一份 [Upwork CSV→Airtable 100 美元申请草稿](docs/upwork-csv-airtable-draft.md)，等待登录后核查岗位和 Connects；尚未发送，也没有新增支出。
+
 ## 阅读顺序
 
 - [推文串草稿](docs/thread-draft.md)：可直接取材，但尚未发到社交平台。
