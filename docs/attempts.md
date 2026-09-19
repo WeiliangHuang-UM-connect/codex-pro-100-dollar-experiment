@@ -125,3 +125,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### 新增 SQLite 任务条件申请
 
 2026-09-19 19:53，在 LaborX 向 [SQLite API 买方](https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220)发送 50 美元 / 1 天条件申请，首先确认 6 月的旧需求是否仍有效。My Jobs 核实全文和金额工期；未获接受、未签合同或开发。详见[文案](sqlite-api-application.md)。本轮 GitHub 新候选筛选结果见[补充笔记](github-bounties-ai-income-research.md#本轮继续筛选2026-09-19-1953)。
+
+
+### Upwork 资格更新及 Expensify / Gitpay 深筛
+
+2026-09-19 20:06：用户确认 Upwork 已验证；读取 Expensify 规则并筛选 30 个开放 Help Wanted 条目及全部评论页。没有已复现、与现有方案实质不同且适合马上提交的候选，未发提案。Gitpay 的公开 API 查询 open + hasBounty 返回 0 项。详见[筛选记录](expensify-screening.md)；申请、收入与应收金额不变。

@@ -67,3 +67,10 @@
 - [Omi 正式贡献规则](https://github.com/BasedHardware/omi/blob/main/docs/doc/developer/Contribution.mdx)区分普通贡献的设备/额度奖励和现金悬赏，允许 AI 辅助，现金认领用 PayPal。精确 Paid Bounty 标签搜索返回 [#2954](https://github.com/BasedHardware/omi/issues/2954)、[#2825](https://github.com/BasedHardware/omi/issues/2825)、[#2824](https://github.com/BasedHardware/omi/issues/2824) 三项设备功能任务；未建立硬件验证条件，未认领。普通参与者标题里的拟赏金不是维护者预算批准。
 
 这些核查没有产生新 GitHub 申请。随后转向现有 LaborX 账户，已提交一份[50 美元 SQLite API 条件申请](sqlite-api-application.md)，核实进入 My Jobs；旧需求仍需买方确认。未新增订单或收入。
+
+
+## 2026-09-19 20:06 更新：Upwork 已由用户确认验证
+
+更正此前的账户不确定项：用户确认已有完成身份验证的 Upwork 账户，尚未独立检查账户或提现。进一步筛选 Expensify 的 30 个开放 Help Wanted 任务，未找到本轮可直接提交的有差异、已复现方案；[逐项依据与参与条件](expensify-screening.md)。账户门槛解除不等于获得任务。
+
+Gitpay 的[官方付款规则](https://docs.gitpay.me/docs/en/payments/)说明付款渠道取决于任务资金来源及账户资格，不能假设每项都可以选 PayPal。本次公开 API `https://gitpay.me/tasks/list?hasBounty=true&status=open&limit=50&page=0` 返回 200、`data=[]`、`totalCount=0`。去掉 open 过滤的有赏金查询返回总数 189，首批 20 条均关闭；不带赏金条件的查询返回总数 447，首批 5 项 open 但金额 0。该观察不等于对全站机会的永久判断，也未产生申请。

@@ -189,3 +189,16 @@ CSV 服务在 Posted 中仍显示 Visible / 120，Offers 与 In Progress 均为�
 转向已登录的 LaborX，发现 [SQLite 单表 CRUD 任务](https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220)范围明确、标价 50 美元，但广告发表于 6 月 24 日并要求当天完成。按现有统一授权发送一份条件申请，先确认旧需求是否仍在；拟用 Flask + SQLAlchemy，包含五个端点、输入校验、持久化、自动测试和运行说明。报价 50 美元等值，范围和托管资金落实后 1 天，含一次范围内修改；披露 Codex 辅助，询问 Base USDC 平台托管可行性。未声称旧截止日仍有效，未签合同或投入完整开发。
 
 发送后跳转 My Jobs，页面实际显示完整申请、Budget $50、Deadline 1 day，核实提交成功。浏览器新标签创建曾超时，复用原标签完成操作，未将超时猜成平台拒绝。详见[申请全文](sqlite-api-application.md)和[证据摘要](../evidence/sqlite-api-application.json)。LaborX 已核实申请从 3 增至 4，总付费范围申请从 4 增至 5；等待清单新增一项。其余等待事项未主动复查，SABLE 按用户要求暂不处理。实际到账仍为 0，既有应收未收 250 美元，新增直接支付支出 0。
+
+
+### 2026-09-19T20:06:14+08:00 — Upwork 资格更新与 Expensify 逐项筛选
+
+用户明确表示已有完成身份验证的 Upwork 账户。此前“Upwork 条件未确认”的限制已更新为用户确认可用；尚未独立检查账户或取得公开主页链接。读取 Expensify 贡献规则、README、AI Etiquette 和 MelvinBot 流程，并通过 GitHub API 检索 30 个 open + Help Wanted 任务，获取全部评论页后提取审核者近期意见及竞争情况。
+
+本轮未筛出适合直接申请的任务：部分已有获选/推荐方案、后端依赖、待复测或相似提案密集；简单的收据伙伴页面留白问题仍有原生测试和业务连接条件。没有把标签或 AI 提案当作已受聘证据，没有发布提案、开 PR、签合同或声称已复现。明细见[Expensify 筛选记录](expensify-screening.md)。
+
+另读取 Gitpay 官方付款规则并查询公开任务 API。`status=open&hasBounty=true` 返回 HTTP 200、totalCount 0；不带状态的有赏金查询有 189 条，首批 20 条均 closed；不能把该平台累计任务或付款数字当作当前可接金额。该结果仅限当次 API 查询，未证明整个平台完全没有机会。此前网页导航超时，未确定原因。
+
+新增申请、订单、收入和直接支付支出均为 0。现有累计实际到账 0 美元、SABLE 应收未收 250 美元不变。未重新查询等待事项或 SABLE，未设置自动轮询。
+
+补充：随后用户提供 Upwork 公开个人主页链接，后续可用于聘用资料。公开页面读取工具返回无法访问；未独立验证账户身份状态，不能将此读取失败推断为账户受限。仓库仅记录已收到链接，不重复公开个人资料。

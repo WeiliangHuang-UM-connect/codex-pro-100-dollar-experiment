@@ -38,6 +38,8 @@
 
 新增：[GitHub 悬赏与别人用 AI 做业务的核查](docs/github-bounties-ai-income-research.md)，包含可核查依据、账户门槛和适用路线。
 
+20:06 更新：用户确认 Upwork 已完成验证；进一步[筛选 Expensify 的 30 个开放悬赏条目](docs/expensify-screening.md)，仍需解决任务竞争、复现和人工审核条件。本轮没有新申请或收入。
+
 ## 阅读顺序
 
 - [推文串草稿](docs/thread-draft.md)：可直接取材，但尚未发到社交平台。
