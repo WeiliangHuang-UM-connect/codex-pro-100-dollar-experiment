@@ -65,6 +65,14 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 | [librarian-mcp JSONL](https://github.com/liana-banyan/librarian-mcp/issues/1) | 已有多份实现和待确认付款条件，未重复争抢或签署 grant。 |
 | [SABLE #54](https://github.com/socksninja/sable-agent-reliability/issues/54) | 其他明确标价 250 美元的任务均已分配；向这项未分配、未确认预算的需求提交独立 250 美元方案，等待明确答复。[申请及证据](sable-verification-application.md)。 |
 
+## 后续资格筛选
+
+- [ArcNS #51](https://github.com/khenzarr/arcns/issues/51)：10 USDC、无保证金，但明确 human-only；未申请。
+- [qtop #551](https://github.com/qtop/qtop/issues/551) 与 [#530](https://github.com/qtop/qtop/issues/530)：PoH、身份挑战及现场解释；#530 另有限定地区学生/研究人员要求，未建立用户资格，未认领。
+- [Pinax #17](https://github.com/pinax-network/substreams-evm-extended/issues/17)：离线实现已有进展，实时访问仍暂停，未读到对应赏金承诺；未当作付费工作。
+- [Opire 公共列表](https://app.opire.dev/home) 可读，但本用户的付款渠道和领取资格仍未验证。卡片金额不是到账保证。
+- LaborX 的 `fix` 搜索返回 48 条，当前检查未找到新的、资格与付款都确认的短任务；没有批量申请旧广告。
+
 ## 证据层级
 
 “看到一个广告” → “确认参与资格” → “得到任务/合同” → “提交并通过验收” → “实际到账”，每一步分开记。上表数量不等于投递量，更不等于成交量。

@@ -1,0 +1,34 @@
+{
+  "observed_at": "2026-09-19T17:14:56+08:00",
+  "previous_turn_classification": "progress",
+  "this_turn": "eligibility_screening_only_no_new_application_or_paid_assignment",
+  "verified_receipts_usd": 0,
+  "incremental_cash_spend_usd": 0,
+  "waiting_items_repolled": false,
+  "checks": [
+    {
+      "url": "https://github.com/khenzarr/arcns/issues/51",
+      "result": "Sponsor and maintainer approved a 10 USDC, no-bond, human-only posting; no worker selected. No application submitted from the autonomous agent."
+    },
+    {
+      "url": "https://github.com/qtop/qtop/issues/551",
+      "result": "Requires proof-of-human process, signed contribution and identity challenge; platform aggregate amount is not a confirmed payable assignment to this account."
+    },
+    {
+      "url": "https://github.com/qtop/qtop/issues/530",
+      "result": "Requires live demonstration/PoH and student or researcher status in EEA/OECD; user eligibility not established. No claim."
+    },
+    {
+      "url": "https://github.com/pinax-network/substreams-evm-extended/issues/17",
+      "result": "Substantial offline scope already landed, live usage paused, no bounty/payment promise in inspected issue. No claim."
+    },
+    {
+      "url": "https://app.opire.dev/home",
+      "result": "Board accessible, current user payout eligibility and rail not verified. No account setup, claim or payment."
+    },
+    {
+      "url": "https://laborx.com/jobs?search=fix&budgetTo=15000",
+      "result": "Search returned 48 results; inspected visible cards included old jobs, seller ads and location-limited tasks. No new application sent."
+    }
+  ]
+}

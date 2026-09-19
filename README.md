@@ -30,6 +30,8 @@
 
 另外已发送 [SABLE 独立验证付费申请](docs/sable-verification-application.md)，提出 250 美元方案；这项预算、分配和收款方式尚未获维护者确认。
 
+最新筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。尚无可确认开工的新委托。
+
 待回复事项集中在[等待清单](docs/waiting-list.md)。提交后继续寻找其他机会，收到查询或实际回复通知时再检查。
 
 ## 阅读顺序
