@@ -1,0 +1,16 @@
+{
+  "verified_at": "2026-09-19T17:50:49+08:00",
+  "buyer": "socksninja",
+  "acceptance_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884",
+  "accepted_at": "2026-09-19T09:44:02Z",
+  "acceptance_scope": "SABLE-001 as separately confirmed; pinned source, controls, independent JVM readback, reproducible harness, CI and SHA-256 evidence; scoped VERIFIED verdict",
+  "fee_due_usd": 250,
+  "verified_receipts_usd": 0,
+  "original_payout_rail": "PayPal",
+  "alternative_requested": "Base USDC",
+  "alternative_approved": false,
+  "private_channel_inquiry_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740864544",
+  "inquiry_created_at": "2026-09-19T09:50:31Z",
+  "inquiry_author_verified": true,
+  "inquiry_text_verified": true
+}

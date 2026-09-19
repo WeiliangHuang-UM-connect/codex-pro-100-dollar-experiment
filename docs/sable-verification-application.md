@@ -28,3 +28,10 @@ This is an application and scope inquiry, not a claim of reproduction or complet
 ## 技术交付
 
 已完成并[提交验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740828522)。完整 [REPORT.md](../deliverables/sable-001/REPORT.md) 及固定版本 CI、14 个 JSON 证据文件均已公开。目标问题在测试边界内 VERIFIED。尚未获买方验收或收到款项。
+
+
+### 已验收，等待私下结算
+
+用户收到实际回复通知后核查，买方 socksninja 于 2026-09-19 17:44:02（Asia/Shanghai）[明确接受交付](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884)，确认 SABLE-001 的约定范围全部覆盖，250 美元固定费用现已应付。精确源码版本、CI、独立 JVM 复读与证据清单均在验收范围内。
+
+状态更新为：已验收 1 单，应收未收 250 美元，已核实到账仍为 0。买方重申原约定为 PayPal，Base USDC 尚未获同意；需要先私下协调付款方式。已[询问对方可公开提供的私下联系渠道](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740864544)，发布后独立读取核实作者和正文。公开记录不包含收款详情，未创建 PayPal 账户、未宣称收款渠道可用，未发起资金操作。未重新检查其他等待事项。

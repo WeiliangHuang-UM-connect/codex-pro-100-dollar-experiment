@@ -22,3 +22,8 @@
 
 - [SABLE 交付记录](sable-delivery.json)：正式提交评论、固定交付版本与 CI 成功记录；不代表验收或到账。
 - [SABLE 原始机器证据](../deliverables/sable-001/observed-run)：合成数据、真实本地 HTTP 调用和独立 JVM 读回结果，含 SHA-256 清单。
+
+
+### SABLE 验收
+
+[sable-acceptance.json](sable-acceptance.json) 记录买方验收、250 美元应付和私下结算渠道询问的公开来源。应付金额未计入实际到账。

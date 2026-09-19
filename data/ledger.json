@@ -17,10 +17,9 @@
     "标题中的两天和烧完 Pro 尚无完整计时与额度证据。",
     "任务标价、申请金额、提交成功响应均不计为到账。",
     "未来稳定币收入先记录代币、网络、到账证据，再注明美元换算口径。",
-    "SABLE 买方已确认 250 美元验收后付款并分配任务；指定 PayPal，收款可用性待确认。无资金托管或到账证据。",
-    "SABLE 已提交可复现验证交付，CI 与证据一致性通过；买方验收和可用收款渠道待确认，未计入收入。"
+    "SABLE 已明确验收，250 美元费用应付，记为应收未收；原付款方式 PayPal，Base USDC 尚待私下协商。无到账证据，不计入 verified_receipts_usd。"
   ],
-  "updated_at": "2026-09-19T17:43:54+08:00",
+  "updated_at": "2026-09-19T17:50:49+08:00",
   "confirmed_applications_sent": 4,
   "laborx_gigs_drafted": 1,
   "laborx_gigs_published": 1,
@@ -28,5 +27,6 @@
   "laborx_applications_sent": 3,
   "github_paid_scope_applications_sent": 1,
   "paid_task_deliveries_submitted": 1,
-  "paid_task_deliveries_accepted": 0
+  "paid_task_deliveries_accepted": 1,
+  "accepted_unpaid_usd": 250
 }

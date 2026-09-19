@@ -7,7 +7,10 @@
   "ci_run_id": 35435203603,
   "ci_conclusion": "success",
   "classification": "VERIFIED",
-  "buyer_acceptance_confirmed": false,
+  "buyer_acceptance_confirmed": true,
   "payout_rail_change_confirmed": false,
-  "verified_receipts_usd": 0
+  "verified_receipts_usd": 0,
+  "buyer_acceptance_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884",
+  "buyer_accepted_at": "2026-09-19T09:44:02Z",
+  "accepted_unpaid_usd": 250
 }
