@@ -81,3 +81,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### SABLE 后续：买方确认与正式分配
 
 2026-09-19T17:21:10+08:00 按用户邮件提示核查：[维护者确认](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385) 250 美元验收后付款，48 小时交付目标，允许 AI/Codex 辅助；Issue 已分配给本账号。指定 PayPal，收款可用性待用户确认。主实验未运行，实际到账 0。此前“预算未确认”是当时观察，不再代表当前状态。
+
+
+### SABLE 已完成技术交付，等待验收
+
+2026-09-19T17:43:54+08:00，本地真实 HTTP 复现程序完成，最终当前版本在 [Ubuntu CI](https://github.com/WeiliangHuang-UM-connect/codex-pro-100-dollar-experiment/actions/runs/35435203603) 成功。空流 1 请求 / 正常结束 / 无输出，两个正对照通过；由独立 JVM 检查持久化结果。已[正式提交买方验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740828522)。PayPal 未确认可用，USDC 替代方案已询问但未获同意；交付和 250 美元承诺均不算到账。

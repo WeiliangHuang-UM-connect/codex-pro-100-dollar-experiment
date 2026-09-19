@@ -4,7 +4,7 @@
 
 **截至 2026-09-19，已核实到账：0 美元。目标未完成。**
 
-最近续跑：**LaborX 的 250 美元等值申请已成功提交**，在 My Jobs 页面核实了完整文案、报价和 15 天工期；等待买方回复。尚未成交或到账。详情见[后续日志](docs/journal.md)。
+最新进展：**SABLE 250 美元独立验证试单已完成并[提交验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740828522)**。空流异常在锁定版本中复现，正常响应和重试对照通过，公开 CI 与证据哈希核验通过。等待买方验收和收款渠道确认；实际到账仍为 0。详见[交付报告](deliverables/sable-001/REPORT.md)。
 
 另已获用户批准并在 LaborX **公开发布 [120 USDC 的 CSV 自动化服务](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)**；刷新后平台状态为 Published。收款选项为 Base USDC，尚无客户或到账。具体范围见[服务文案](docs/laborx-csv-gig-draft.md)。
 
@@ -28,7 +28,7 @@
 
 另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在；当前 LaborX 共 3 份已核实提交的申请，均未确认成交。
 
-最新进展：[SABLE 维护者已确认](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385) **250 美元验收后付款**并分配任务，允许 AI/Codex 辅助，48 小时交付目标。指定 PayPal，用户收款可用性待确认；尚未交付、验收或到账。详见[申请与后续](docs/sable-verification-application.md)。
+最新进展：[SABLE 维护者已确认](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385) **250 美元验收后付款**并分配任务，允许 AI/Codex 辅助，48 小时交付目标。指定 PayPal，用户收款可用性待确认；现已交付待验收，尚未到账。详见[申请与后续](docs/sable-verification-application.md)。
 
 最新筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。此筛选发生在 SABLE 确认回复被检查之前。
 

@@ -129,3 +129,8 @@ SABLE 今天已有维护者明确确认 250 美元、PayPal 付款的分配记�
 ### 2026-09-19T17:41:26+08:00 — SABLE 当前版本 CI 验证成功，验收包就绪
 
 [标准 Ubuntu CI](https://github.com/WeiliangHuang-UM-connect/codex-pro-100-dollar-experiment/actions/runs/35435203603) 已完成且 success。从日志解码的 14 个 JSON 文件经过哈希、执行代码哈希、请求计数、磁盘内容与独立 JVM 读取的一致性核验。空流 1 请求 / 0 重试 / onComplete / 无输出、无状态文件；正常对照 1 请求，429 对照 2 请求，两者均输出并持久化标记。分类 VERIFIED 仅适用于锁定版本与本地输入，不扩大到线上普遍性或 fallback。完整报告见 [交付报告](../deliverables/sable-001/REPORT.md)。当前验收包准备完成，尚未登记为买方验收或收入。
+
+
+### 2026-09-19T17:43:54+08:00 — SABLE 验收申请已提交
+
+向已分配任务发布[正式交付评论](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740828522)，附固定提交版本的报告、原始数据、SHA-256 清单、源码与 CI 链接，并请求按 250 美元约定验收或指出具体缺失证据。发布后独立读取该评论，作者和完整文案一致。没有查询等待列表中的其他项目，也没有声称收款渠道已准备好。当前为已交付待验收 / 收款方式待确认；实际到账 0 美元。

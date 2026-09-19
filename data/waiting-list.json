@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:21:10+08:00",
+  "updated_at": "2026-09-19T17:43:54+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -63,18 +63,21 @@
       "kind": "paid_scope_application",
       "source_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
       "recipient": "socksninja",
-      "status": "buyer_confirmed_and_assigned_payout_readiness_pending",
+      "status": "delivered_awaiting_acceptance_and_usable_payout",
       "amount_usd_proposed": 250,
       "delivery_hours_after_confirmation": 48,
-      "last_verified_at": "2026-09-19T17:21:10+08:00",
-      "waiting_for": "User PayPal receiving readiness or buyer agreement to another rail; exact source revision alignment; then reproducible evidence delivery and acceptance",
+      "last_verified_at": "2026-09-19T17:43:54+08:00",
+      "waiting_for": "Buyer acceptance or specific correction request; agreement to Base USDC or verified PayPal receiving readiness; exact release hash alignment",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
       "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
       "buyer_confirmed_usd": 250,
       "payout_rail": "PayPal",
       "ai_assistance_eligible": true,
       "assignment_confirmed": true,
-      "target_deadline_from_buyer_confirmation": "2026-09-21T17:14:01+08:00"
+      "target_deadline_from_buyer_confirmation": "2026-09-21T17:14:01+08:00",
+      "delivery_comment_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740828522",
+      "delivery_submitted_at": "2026-09-19T09:42:28Z",
+      "payout_revision_inquiry_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740746506"
     }
   ]
 }

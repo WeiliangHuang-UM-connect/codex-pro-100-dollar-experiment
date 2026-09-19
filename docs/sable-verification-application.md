@@ -23,3 +23,8 @@ One scope detail: the current THIRD_PARTY_REPRO_CHECKLIST.md describes SABLE-002
 My proposal is US$250 fixed with a 48-hour delivery target after assignment and the exact acceptance boundary are confirmed. Please confirm whether this separate task has budget, whether disclosed Codex/AI-assisted implementation and testing are eligible, and the supported payout rail. USDC on Base is preferred; if PayPal is the only option, please state that before we agree terms. No receiving credentials/details need to be posted publicly.
 
 This is an application and scope inquiry, not a claim of reproduction or completion; I would begin the main execution after your confirmation.
+
+
+## 技术交付
+
+已完成并[提交验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740828522)。完整 [REPORT.md](../deliverables/sable-001/REPORT.md) 及固定版本 CI、14 个 JSON 证据文件均已公开。目标问题在测试边界内 VERIFIED。尚未获买方验收或收到款项。
