@@ -162,3 +162,10 @@ LaborX Python 与 Data Processing 分类页未筛出新的当前可确认开工�
 用户转述买方已确认私下收到收款资料、250 美元仍应付且 pending，并报告 PayPal 页面显示“付款”而非“收款”。按用户明确要求，已[在 Issue 询问](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741344483)买方是否实际发起转账、方向是否向本用户付款，以及是否误发了付款请求或账单；请交易编号等细节仅通过私下邮箱沟通。评论作者和正文已读回核实。
 
 尚未直接检查用户 PayPal 页面，不能判定该界面是交易、账单还是导航按钮，也不能判定买方确实发错方向。未执行任何支付操作，到账仍为 0，应收未收 250 美元。
+
+
+### 2026-09-19T19:18:00+08:00 — 买方确认尚未付款，私下重申收款邮箱
+
+用户提供实际回复通知后，读取[买方评论](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741369194)核实：250 美元尚未发出，没有发起付款或付款请求，当前没有交易编号；费用仍应向本用户支付。此前界面疑问不能归因于买方发起了反向收款。
+
+买方再次要求明确 PayPal 收款邮箱。沿用用户对同一结算收件人的既有授权，在原 Gmail 线程私下重申完全相同的收款邮箱，读取 SENT 邮件核实收件人、正文和线程；再[公开告知查收私下邮件](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741386298)并核实评论。公开记录不含收款资料。等待实际付款，到账仍为 0，应收未收 250 美元。

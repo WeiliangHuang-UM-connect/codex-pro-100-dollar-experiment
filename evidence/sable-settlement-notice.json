@@ -1,5 +1,5 @@
 {
-  "verified_at": "2026-09-19T19:00:05+08:00",
+  "verified_at": "2026-09-19T19:18:00+08:00",
   "private_channel_source": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740875877",
   "user_explicit_send_authorization": true,
   "email_sent_at": "2026-09-19T10:59:24Z",
@@ -11,5 +11,9 @@
   "buyer_read_receipt_verified": false,
   "paypal_account_receiving_capability_independently_verified": false,
   "verified_receipts_usd": 0,
-  "accepted_unpaid_usd": 250
+  "accepted_unpaid_usd": 250,
+  "buyer_payment_not_sent_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741369194",
+  "paypal_destination_reconfirmed_at": "2026-09-19T11:17:38Z",
+  "reconfirmation_sent_and_readback_verified": true,
+  "reconfirmation_public_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741386298"
 }

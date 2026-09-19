@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:11:22+08:00",
+  "updated_at": "2026-09-19T19:18:00+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -63,11 +63,11 @@
       "kind": "paid_scope_application",
       "source_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
       "recipient": "socksninja",
-      "status": "accepted_payment_direction_clarification_pending",
+      "status": "accepted_paypal_destination_reconfirmed_awaiting_payment",
       "amount_usd_proposed": 250,
       "delivery_hours_after_confirmation": 48,
-      "last_verified_at": "2026-09-19T19:00:05+08:00",
-      "waiting_for": "Buyer clarification of payment direction and actual transfer status; private transaction details; independently verified receipt",
+      "last_verified_at": "2026-09-19T19:18:00+08:00",
+      "waiting_for": "Buyer sends USD250 to privately reconfirmed PayPal destination; independently verified receipt",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
       "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
       "buyer_confirmed_usd": 250,
@@ -87,7 +87,12 @@
       "paypal_details_sent_at": "2026-09-19T10:59:24Z",
       "sent_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741269484",
       "payment_direction_inquiry_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741344483",
-      "payment_direction_inquiry_at": "2026-09-19T19:11:22+08:00"
+      "payment_direction_inquiry_at": "2026-09-19T19:11:22+08:00",
+      "payment_direction_clarification_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741369194",
+      "buyer_says_payment_initiated": false,
+      "buyer_says_money_request_initiated": false,
+      "paypal_destination_reconfirmed_at": "2026-09-19T11:17:38Z",
+      "destination_reconfirmation_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741386298"
     }
   ]
 }
