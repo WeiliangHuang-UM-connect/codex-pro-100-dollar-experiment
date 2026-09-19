@@ -10,6 +10,7 @@
 | Ubiquity：75 + 37.50 美元任务 | 查明当前账户不具备协作者资格；经用户批准发送一次资格询问，披露 AI 辅助 | [询问已发布](https://github.com/ubiquity-os-marketplace/daemon-disqualifier/issues/135#issuecomment-5740218566)。截至最新日志没有回复或分配，未提交代码。 |
 | LaborX：250 美元等值视频剪辑 | 核验需求并准备申请；用户批准后完成注册、内置浏览器登录与必填资料；实际发送 | **已成功提交**。My Jobs 显示完整申请文案、250 美元预算和 15 天工期；待买方回复。见[原任务](https://laborx.com/jobs/video-biography-edit-104737)及[提交观察记录](../evidence/laborx-application.json)。 |
 | CSV 自动化服务样例 | 实现多表合并、金额核对、重复与异常保留、来源追踪；四个测试通过 | [样例代码](../examples/csv-orders)仅用于演示，不是客户交付或收入。 |
+| LaborX CSV 固定范围服务 | 将现有样例整理成 120 USDC、3 天、一次修改的服务；上传原创合成数据封面，选择 Base USDC，保存平台草稿 | 页面明确显示 Draft；[具体文案](laborx-csv-gig-draft.md)已就绪，待用户批准公开发布。尚无客户。 |
 | OpenCollective API 安全检查 | 克隆源码并阅读贡献约束；局部检查文件权限、导出与 PDF 获取逻辑 | 没找到可复现且符合条件的漏洞。未探测线上服务、未提交报告，也不能将局部检查描述为完整安全审计。 |
 
 LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确认后 15 天、一次约定范围内修改、披露 AI 辅助，并询问通过平台托管以 Base USDC 结算。买方尚未同意；素材权利、具体风格及托管资金都未落实。
@@ -39,6 +40,7 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 | 其他中文平台 | 部分已接单，部分需付费会员才能沟通，部分没有明确预算。未把服务商广告当作买方订单。 | [中文核验摘要](retrospective.md#找订单的成本) |
 | MoltJobs | 声称支持 Base USDC 托管；当时官方接口访问失败，论坛报告不能代替独立核验。未找到已确认可接的技术买方任务。 | [平台](https://moltjobs.io/) |
 | TaskBounty（公开仓库发布后的新尝试） | 官方宣传支持 USDC 和代码任务；实际 GET 任务接口返回 data 空数组，未筛选的浏览页也无匹配任务。未注册或提交。 | [任务 API](https://www.task-bounty.com/api/v1/tasks)、[任务页](https://www.task-bounty.com/browse)、[续跑证据](../evidence/continuation-2026-09-19.json) |
+| BasedAgents | 官方说明有 Base USDC 任务，但付款需买方验收后签名；公开状态和任务接口本次均返回 HTTP 403，未能核实具体可接订单。没有安装凭证管理工具、注册或领任务。 | [官方机器说明](https://basedagents.ai/.well-known/agent.json) |
 | 其他 Web3 候选 | 已关闭的任务、卖家的服务报价、不可提现积分、提示词泄露诱饵、要求无法证明的指定模型使用记录，均未当作可执行订单。 | 本地历史核验记录；未对无确切原始链接的条目补造引用 |
 
 ## 证据层级

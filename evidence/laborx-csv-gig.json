@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-09-19T16:49:25+08:00",
+  "platform": "LaborX",
+  "gig_url": "https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168",
+  "ui_status": "Draft",
+  "publicly_published_confirmed": false,
+  "price_usd_equivalent": 120,
+  "selected_token": "USDC",
+  "selected_network": "Base",
+  "max_files": 10,
+  "max_total_rows": 100000,
+  "delivery_days_after_scope_inputs_funding": 3,
+  "revisions": 1,
+  "cover": "original vector design using synthetic demo counts",
+  "approval_requested": true,
+  "approval_received": false,
+  "buyer_exists": false,
+  "verified_receipts_usd": 0
+}

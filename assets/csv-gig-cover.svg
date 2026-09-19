@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#102735"/>
+  <rect x="70" y="70" width="270" height="45" rx="22" fill="#c1f18e"/>
+  <text x="205" y="101" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#102735">PYTHON WORKFLOW</text>
+  <text x="70" y="219" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#ffffff">CSV cleanup</text>
+  <text x="70" y="316" font-family="Arial,sans-serif" font-size="82" font-weight="700" fill="#ffffff">you can run again.</text>
+  <text x="75" y="387" font-family="Arial,sans-serif" font-size="30" fill="#b9cbd2">Merge files. Check amounts. Keep the source of every row.</text>
+  <rect x="75" y="454" width="1450" height="257" rx="28" fill="#ffffff"/>
+  <text x="120" y="505" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#5d737c">SYNTHETIC SAMPLE RESULTS</text>
+  <text x="195" y="600" font-family="Arial,sans-serif" font-size="76" font-weight="700" fill="#102735">13</text>
+  <text x="195" y="650" font-family="Arial,sans-serif" font-size="26" fill="#506771">input rows</text>
+  <path d="M510 577 H638 M621 559 L639 577 L621 595" fill="none" stroke="#8fa5ad" stroke-width="5"/>
+  <text x="737" y="600" font-family="Arial,sans-serif" font-size="76" font-weight="700" fill="#287041">4</text>
+  <text x="737" y="650" font-family="Arial,sans-serif" font-size="26" fill="#506771">clean, unique rows</text>
+  <text x="1100" y="600" font-family="Arial,sans-serif" font-size="76" font-weight="700" fill="#a25a13">9</text>
+  <text x="1100" y="650" font-family="Arial,sans-serif" font-size="26" fill="#506771">rows kept for review</text>
+  <text x="75" y="776" font-family="Arial,sans-serif" font-size="27" fill="#ffffff">Source code + CSV outputs + offline HTML report</text>
+  <text x="75" y="830" font-family="Arial,sans-serif" font-size="22" fill="#b9cbd2">AI-assisted development  /  Reproducible tests  /  Demo data, not client work</text>
+</svg>
