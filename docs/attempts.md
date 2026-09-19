@@ -96,3 +96,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### 验收后的候选核查
 
 2026-09-19 17:54：qmrkt 赏金已关闭，NSPG13 #894 未注资，DeskCrew 要求预付参赛费用，Collaborators 未核实到具体可接任务。无新增申请或到账；[来源与观察](../evidence/post-acceptance-screening.json)。
+
+
+### SABLE 结算推进
+
+2026-09-19T19:00:05+08:00：按用户明确指示，通过 Gmail 私下发送 PayPal 收款信息，已读取 SENT 记录核实；[GitHub 已告知](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741269484)。等待付款，未新增到账。

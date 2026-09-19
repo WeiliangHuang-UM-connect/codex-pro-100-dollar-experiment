@@ -148,3 +148,10 @@ SABLE 今天已有维护者明确确认 250 美元、PayPal 付款的分配记�
 SABLE 验收及结算询问已在上一轮完成。本轮没有轮询等待清单。新增核查 qmrkt 100 USDC 漏洞赏金（已关闭）、NSPG13 #894 审查任务（明确尚未注资）、Hermes/DeskCrew 客服赏金（读题及提交需先付费）。Collaborators 首页需 GitHub 登录和 Solana 钱包，尚未核实具体已注资任务。Chain.Love 与 Arrow-air 属于此前调查过的路线；本轮读到审核积压、社区资格等限制，没有重复开发或认领。
 
 LaborX Python 与 Data Processing 分类页未筛出新的当前可确认开工技术订单。GitHub 第三次 API 搜索返回 secondary rate limit，随即停止 API 搜索，未把此前错误的 CLI 空结果解释为无任务。没有新增申请、交付、付款或支出；已核实到账仍为 0，应收未收仍为 250 美元。筛选事实见[证据摘要](../evidence/post-acceptance-screening.json)。这轮没有新增收入执行进展；不能把日志维护当作收益。
+
+
+### 2026-09-19T19:00:05+08:00 — PayPal 收款信息已私下发送
+
+买方[提供了私下结算邮箱](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740875877)，仍要求 PayPal。用户随后提供本人 PayPal 收款邮箱、账户姓名和付款备注，明确要求向该买方邮箱发送，并在 Issue 告知。通过已连接 Gmail 发送独立邮件，随后读取已发送邮件核实 SENT 标签、收件人和正文一致；再[发布 GitHub 告知评论](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741269484)，读取核实作者与正文。
+
+公开记录不复制任何收款邮箱、账户姓名或邮件原文。当前为收款资料已发送、等待买方转账；邮件发送成功不代表对方已读或付款，也不代表 PayPal 已独立核验收款权限。实际到账仍为 0，应收未收 250 美元，目标未完成。
