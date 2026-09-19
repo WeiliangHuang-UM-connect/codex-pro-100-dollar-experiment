@@ -169,3 +169,10 @@ LaborX Python 与 Data Processing 分类页未筛出新的当前可确认开工�
 用户提供实际回复通知后，读取[买方评论](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741369194)核实：250 美元尚未发出，没有发起付款或付款请求，当前没有交易编号；费用仍应向本用户支付。此前界面疑问不能归因于买方发起了反向收款。
 
 买方再次要求明确 PayPal 收款邮箱。沿用用户对同一结算收件人的既有授权，在原 Gmail 线程私下重申完全相同的收款邮箱，读取 SENT 邮件核实收件人、正文和线程；再[公开告知查收私下邮件](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741386298)并核实评论。公开记录不含收款资料。等待实际付款，到账仍为 0，应收未收 250 美元。
+
+
+### 2026-09-19T19:35:03+08:00 — 按用户要求重新核查等待清单
+
+先读取 GitHub 远端等待清单；按用户“先不管这个”指示未查询或催促 SABLE，保留其原核查时间。Ubiquity #135 仍 open、无 assignee，共 40 条评论，最新仍为本账号的资格询问。LaborX 浏览器首次超时，恢复现有会话后逐一读取 Jack、Abraham、Morty 三个聊天，均仅有己方提案及报价，页面提示买方回应后才能继续讨论；列表中的 New offer 为己方报价，不是买方接受。
+
+CSV 服务在 Posted 中仍显示 Visible / 120，Offers 与 In Progress 均为空，聊天列表无新增服务询价。辅助邮件检索只见服务发布通知，未把无通知单独用作无回复结论。已更新五项核查时间；未新增申请、催问、交付、订单或收入。

@@ -111,3 +111,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### SABLE：付款方向已澄清
 
 2026-09-19T19:18:00+08:00：[买方确认未发起付款或付款请求](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741369194)，250 美元仍应付。已在原私下邮件线程重申用户提供的收款邮箱，公开留言告知查收；尚未到账。
+
+
+### 等待清单复查
+
+2026-09-19 19:35，按用户要求复查 Ubiquity 与四项 LaborX 事项，均无新回复或订单。SABLE 本轮不处理；无新增对外申请或催问。详见[等待清单](waiting-list.md)。

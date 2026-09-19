@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:18:00+08:00",
+  "updated_at": "2026-09-19T19:35:03+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -10,9 +10,10 @@
       "status": "awaiting_buyer_reply",
       "amount_usd_proposed": 250,
       "delivery_days_proposed": 15,
-      "last_verified_at": "2026-09-19T16:58:23+08:00",
+      "last_verified_at": "2026-09-19T19:35:03+08:00",
       "waiting_for": "Buyer reply, source materials, rights confirmation, agreed scope and escrow funding",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives"
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Chat contains only our proposal and offer; no buyer reply or acceptance."
     },
     {
       "id": "laborx-data-102259",
@@ -22,18 +23,20 @@
       "status": "submitted_awaiting_buyer_reply",
       "amount_usd_proposed": 150,
       "delivery_days_proposed": 3,
-      "last_verified_at": "2026-09-19T17:02:30+08:00",
+      "last_verified_at": "2026-09-19T19:35:03+08:00",
       "waiting_for": "Confirmation old need remains, acceptance of separate pilot, input sample, schema, acceptance criteria and escrow funding",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives"
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Chat contains only our proposal and offer; no buyer reply or acceptance."
     },
     {
       "id": "ubiquity-eligibility-135",
       "kind": "eligibility_inquiry",
       "source_url": "https://github.com/ubiquity-os-marketplace/daemon-disqualifier/issues/135#issuecomment-5740218566",
       "status": "awaiting_maintainer_reply",
-      "last_verified_at": "2026-09-19T17:21:10+08:00",
+      "last_verified_at": "2026-09-19T19:35:03+08:00",
       "waiting_for": "Eligibility and paid assignment authorization",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives"
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Issue open, unassigned; latest comment remains our eligibility inquiry; no maintainer reply."
     },
     {
       "id": "laborx-csv-122168",
@@ -42,9 +45,10 @@
       "status": "published_no_buyer_confirmed",
       "amount_usd_proposed": 120,
       "delivery_days_proposed": 3,
-      "last_verified_at": "2026-09-19T16:54:24+08:00",
+      "last_verified_at": "2026-09-19T19:35:03+08:00",
       "waiting_for": "Buyer inquiry and agreed funded scope",
-      "next_check_trigger": "User asks to check waiting items or an actual inquiry notification arrives"
+      "next_check_trigger": "User asks to check waiting items or an actual inquiry notification arrives",
+      "last_check_result": "Posted and Visible at120; Offers and In Progress empty; no gig inquiry in current chats."
     },
     {
       "id": "laborx-coingecko-96610",
@@ -54,9 +58,10 @@
       "status": "submitted_awaiting_buyer_reply",
       "amount_usd_proposed": 300,
       "delivery_days_proposed": 5,
-      "last_verified_at": "2026-09-19T17:04:56+08:00",
+      "last_verified_at": "2026-09-19T19:35:03+08:00",
       "waiting_for": "Whether old task remains available; redacted code, plan, expected output, acceptance scope and escrow",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives"
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Chat contains only our proposal and offer; no buyer reply or acceptance."
     },
     {
       "id": "sable-verification-54",
