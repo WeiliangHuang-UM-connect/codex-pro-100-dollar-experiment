@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | BountyBook：5 USDC Dijkstra | 编写算法；通过平台公开用例及自编独立对照测试；完成钱包登录；四次真实认领与提交 | 四次均被拒绝；任务重新开放，未付款。停止对同一任务继续试错，不换钱包绕过次数限制。见[脱敏结果](../evidence/bountybook-attempts.json)。 |
 | Ubiquity：75 + 37.50 美元任务 | 查明当前账户不具备协作者资格；经用户批准发送一次资格询问，披露 AI 辅助 | [询问已发布](https://github.com/ubiquity-os-marketplace/daemon-disqualifier/issues/135#issuecomment-5740218566)。截至最新日志没有回复或分配，未提交代码。 |
-| LaborX：250 美元等值视频剪辑 | 核验具体需求；准备申请；用户批准后点击 Send | 页面进入注册而非成功页。用户用 Google 注册；Google 登录可后接 MetaMask，但当前申请尚未确认送达。见[原任务](https://laborx.com/jobs/video-biography-edit-104737)。 |
+| LaborX：250 美元等值视频剪辑 | 核验需求并准备申请；用户批准后完成注册、内置浏览器登录与必填资料；实际发送 | **已成功提交**。My Jobs 显示完整申请文案、250 美元预算和 15 天工期；待买方回复。见[原任务](https://laborx.com/jobs/video-biography-edit-104737)及[提交观察记录](../evidence/laborx-application.json)。 |
 | CSV 自动化服务样例 | 实现多表合并、金额核对、重复与异常保留、来源追踪；四个测试通过 | [样例代码](../examples/csv-orders)仅用于演示，不是客户交付或收入。 |
 | OpenCollective API 安全检查 | 克隆源码并阅读贡献约束；局部检查文件权限、导出与 PDF 获取逻辑 | 没找到可复现且符合条件的漏洞。未探测线上服务、未提交报告，也不能将局部检查描述为完整安全审计。 |
 

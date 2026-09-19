@@ -9,6 +9,7 @@
 | Dijkstra 本地算法测试 | [代码与独立测试](../examples/dijkstra) | 本地通过不等于平台验收 |
 | CSV 合并与核对能力 | [代码和合成用例](../examples/csv-orders) | 不是商业客户作品或成交证明 |
 | LaborX 具体买方需求 | [任务页](https://laborx.com/jobs/video-biography-edit-104737) | 页面可变，标价不是托管入金 |
+| LaborX 申请已成功提交 | [提交观察记录](laborx-application.json)，登录后 My Jobs 的对应申请卡片 | 属于助手观察摘要；该账号私有页面不对外公开，也不证明买方已经接受 |
 | Google 注册可后接钱包 | [官方说明](https://laborx.com/blog/why-your-funds-are-safe-with-laborx)、[钱包功能说明](https://laborx.com/blog/release-1-6-0) | 文档较旧，当前菜单与账户绑定状态尚未实测 |
 | 发布后继续核验新路线 | [续跑记录](continuation-2026-09-19.json)、[TaskBounty 公开任务 API](https://www.task-bounty.com/api/v1/tasks) | 公开列表为空只代表查询时可见结果，不代表永久无任务 |
 

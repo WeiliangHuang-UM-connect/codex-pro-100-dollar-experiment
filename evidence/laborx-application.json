@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-09-19T16:35:46+08:00",
+  "source": "Observed authenticated LaborX UI through Codex in-app browser",
+  "job_url": "https://laborx.com/jobs/video-biography-edit-104737",
+  "buyer_public_name": "Jack Cross",
+  "application_confirmed_sent": true,
+  "confirmation_url": "https://laborx.com/jobs/my",
+  "confirmation_observation": "My Jobs contains a card linking to the exact job, the complete approved application text, Budget $250, Deadline 15 days and Chat entry.",
+  "proposed_budget_usd_equivalent": 250,
+  "proposed_deadline_days": 15,
+  "ai_assistance_disclosed": true,
+  "base_usdc_escrow_requested_not_agreed": true,
+  "buyer_acceptance_verified": false,
+  "escrow_funding_verified": false,
+  "wallet_transaction_performed": false,
+  "verified_receipts_usd": 0,
+  "privacy_note": "No account display name, country, wallet address, raw authenticated page or login data published."
+}
