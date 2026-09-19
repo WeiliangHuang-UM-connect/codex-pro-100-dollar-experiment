@@ -1,0 +1,29 @@
+{
+  "recorded_at": "2026-09-19T16:26:38+08:00",
+  "phase": "continuation_after_initial_publication",
+  "taskbounty": {
+    "endpoint": "https://www.task-bounty.com/api/v1/tasks",
+    "method": "GET",
+    "authentication": "none",
+    "response": {
+      "data": []
+    },
+    "board_url": "https://www.task-bounty.com/browse",
+    "board_observation": "No matching tasks yet",
+    "registered": false,
+    "submitted": false
+  },
+  "laborx": {
+    "browser_runtime_reset": true,
+    "connection_result": "HTML returned instead of expected JSON; no page state available",
+    "application_confirmed_sent": false
+  },
+  "moltjobs": {
+    "skill_document": "timeout",
+    "task_api": "not accessible through current web tool",
+    "eligible_job_verified": false
+  },
+  "inbound_service_page_published": true,
+  "verified_receipts_usd": 0,
+  "incremental_cash_spend_usd": 0
+}
