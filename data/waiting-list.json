@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:00:05+08:00",
+  "updated_at": "2026-09-19T19:11:22+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -63,11 +63,11 @@
       "kind": "paid_scope_application",
       "source_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
       "recipient": "socksninja",
-      "status": "accepted_paypal_details_sent_awaiting_payment",
+      "status": "accepted_payment_direction_clarification_pending",
       "amount_usd_proposed": 250,
       "delivery_hours_after_confirmation": 48,
       "last_verified_at": "2026-09-19T19:00:05+08:00",
-      "waiting_for": "Buyer transfer notification and independently verified PayPal receipt",
+      "waiting_for": "Buyer clarification of payment direction and actual transfer status; private transaction details; independently verified receipt",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
       "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
       "buyer_confirmed_usd": 250,
@@ -85,7 +85,9 @@
       "private_contact_provided_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740875877",
       "paypal_details_sent": true,
       "paypal_details_sent_at": "2026-09-19T10:59:24Z",
-      "sent_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741269484"
+      "sent_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741269484",
+      "payment_direction_inquiry_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741344483",
+      "payment_direction_inquiry_at": "2026-09-19T19:11:22+08:00"
     }
   ]
 }

@@ -4,7 +4,7 @@
 
 **截至 2026-09-19，已核实到账：0 美元。目标未完成。**
 
-最新进展：**SABLE 技术交付已获[买方明确验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884)，250 美元固定费用现已应付。** 记为应收未收，实际到账仍为 0。已按用户授权私下发送 PayPal 收款信息并在 GitHub 告知，等待买方付款。详见[交付报告](deliverables/sable-001/REPORT.md)和[验收证据](evidence/sable-acceptance.json)。
+最新进展：**SABLE 技术交付已获[买方明确验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884)，250 美元固定费用现已应付。** 记为应收未收，实际到账仍为 0。已按用户授权私下发送 PayPal 收款信息；用户报告页面显示“付款”，已询问买方核对转账方向和状态，尚无到账证据。详见[交付报告](deliverables/sable-001/REPORT.md)和[验收证据](evidence/sable-acceptance.json)。
 
 另已获用户批准并在 LaborX **公开发布 [120 USDC 的 CSV 自动化服务](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)**；刷新后平台状态为 Published。收款选项为 Base USDC，尚无客户或到账。具体范围见[服务文案](docs/laborx-csv-gig-draft.md)。
 

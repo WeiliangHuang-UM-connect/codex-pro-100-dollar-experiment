@@ -101,3 +101,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### SABLE 结算推进
 
 2026-09-19T19:00:05+08:00：按用户明确指示，通过 Gmail 私下发送 PayPal 收款信息，已读取 SENT 记录核实；[GitHub 已告知](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741269484)。等待付款，未新增到账。
+
+
+### SABLE 付款状态澄清
+
+2026-09-19T19:11:22+08:00：用户报告 PayPal 显示付款，已按要求[询问买方付款方向及状态](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741344483)。尚无直接 PayPal 界面证据或到账证据，不将用户观察直接判定为转账错误。
