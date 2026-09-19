@@ -18,9 +18,10 @@
     "任务标价、申请金额、提交成功响应均不计为到账。",
     "未来稳定币收入先记录代币、网络、到账证据，再注明美元换算口径。",
     "SABLE 已验收，250 美元应付。用户提供并授权发送 PayPal 收款信息，已通过 Gmail 私下发给买方并在 GitHub 告知。等待付款，未独立核验账户收款权限，无到账证据。",
-    "2026-09-19 用户确认 Upwork 已验证并提供公开主页；未独立核验账户或提现。Expensify 筛选尚未产生申请、聘用或收入。"
+    "2026-09-19 用户确认 Upwork 已验证并提供公开主页；未独立核验账户或提现。Expensify 筛选尚未产生申请、聘用或收入。",
+    "另有资格/范围询问 2 条：Ubiquity GitHub 询问与 Tenstorrent 官方邮件；不计入 5 份已发具体付费范围申请。"
   ],
-  "updated_at": "2026-09-19T20:08:15+08:00",
+  "updated_at": "2026-09-19T20:14:59+08:00",
   "confirmed_applications_sent": 5,
   "laborx_gigs_drafted": 1,
   "laborx_gigs_published": 1,
@@ -29,5 +30,6 @@
   "github_paid_scope_applications_sent": 1,
   "paid_task_deliveries_submitted": 1,
   "paid_task_deliveries_accepted": 1,
-  "accepted_unpaid_usd": 250
+  "accepted_unpaid_usd": 250,
+  "eligibility_or_scope_inquiries_sent": 2
 }

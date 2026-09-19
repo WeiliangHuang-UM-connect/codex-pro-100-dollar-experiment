@@ -40,6 +40,8 @@
 
 20:06 更新：用户确认 Upwork 已完成验证；进一步[筛选 Expensify 的 30 个开放悬赏条目](docs/expensify-screening.md)，仍需解决任务竞争、复现和人工审核条件。本轮没有新申请或收入。
 
+20:14 新增[Tenstorrent 官方付费任务询问](docs/tenstorrent-inquiry.md)，请求可用 CPU 环境完成的小型测试/工具修复任务；邮件已发送并核实，尚未获得任务或预算。
+
 ## 阅读顺序
 
 - [推文串草稿](docs/thread-draft.md)：可直接取材，但尚未发到社交平台。

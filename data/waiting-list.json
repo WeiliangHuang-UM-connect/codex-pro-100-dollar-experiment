@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:53:50+08:00",
+  "updated_at": "2026-09-19T20:14:59+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -111,6 +111,18 @@
       "waiting_for": "Whether the June listing is still available; schema/local-use scope, AI eligibility, payment rail and LaborX escrow funding",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
       "last_check_result": "My Jobs shows the complete submitted conditional proposal, Budget $50 and Deadline 1 day. No acceptance or funding established."
+    },
+    {
+      "id": "tenstorrent-cpu-bounty-inquiry",
+      "kind": "eligibility_and_scope_inquiry",
+      "source_url": "https://docs.tenstorrent.com/bounty_terms.html",
+      "recipient": "Tenstorrent official bounty program",
+      "status": "sent_awaiting_program_reply",
+      "amount_usd_proposed": null,
+      "last_verified_at": "2026-09-19T20:14:59+08:00",
+      "waiting_for": "An unassigned funded CPU-only task; AI eligibility, human review, approved fee, acceptance and payout conditions",
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Gmail message readback confirmed official recipient, subject, body and SENT label; no reply check performed."
     }
   ]
 }

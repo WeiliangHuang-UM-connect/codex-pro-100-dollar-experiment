@@ -130,3 +130,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### Upwork 资格更新及 Expensify / Gitpay 深筛
 
 2026-09-19 20:06：用户确认 Upwork 已验证；读取 Expensify 规则并筛选 30 个开放 Help Wanted 条目及全部评论页。没有已复现、与现有方案实质不同且适合马上提交的候选，未发提案。Gitpay 的公开 API 查询 open + hasBounty 返回 0 项。详见[筛选记录](expensify-screening.md)；申请、收入与应收金额不变。
+
+
+### Tenstorrent 官方付费任务询问
+
+2026-09-19 20:14：向官方悬赏邮箱发送无专用硬件的小型测试/工具修复任务询问，附已验收作品并披露 AI 辅助；Gmail SENT 和正文已读回核实。尚无任务分配、金额批准或收入。[接洽记录](tenstorrent-inquiry.md)。Upwork 浏览器导航/控制超时，本轮没有提交 Upwork 申请。
