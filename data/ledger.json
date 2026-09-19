@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-09-19",
+  "timezone": "Asia/Shanghai",
+  "goal_usd": 100,
+  "goal_completed": false,
+  "verified_receipts_usd": 0,
+  "receipts": [],
+  "confirmed_paid_engagements": 0,
+  "incremental_cash_spend_usd": 0,
+  "subscription_cost_allocated_usd": null,
+  "model_usage_cost_usd": null,
+  "task_token_count": null,
+  "elapsed_hours_verified": null,
+  "human_work_hours": null,
+  "notes": [
+    "零新增支付不等于零成本；订阅和模型成本尚未分摊。",
+    "标题中的两天和烧完 Pro 尚无完整计时与额度证据。",
+    "任务标价、申请金额、提交成功响应均不计为到账。",
+    "未来稳定币收入先记录代币、网络、到账证据，再注明美元换算口径。"
+  ]
+}

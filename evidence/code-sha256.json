@@ -1,0 +1,32 @@
+[
+  {
+    "published_file": "examples/dijkstra/dijkstra.py",
+    "sha256": "650965308bf56746cb4fb47846a58860ed810dba13cc357a8e1626e20e85a6fd",
+    "matches_local_original": true
+  },
+  {
+    "published_file": "examples/dijkstra/test_additional.py",
+    "sha256": "89e18d6e320e2b31765bad3d3705944103f5f943d0c50fcd54d312691e7a5986",
+    "matches_local_original": true
+  },
+  {
+    "published_file": "examples/csv-orders/merge_orders.py",
+    "sha256": "930f7dfaa35f480d0b8427bbdca0ac054980cba6aabf69230be7cda9da4dae7e",
+    "matches_local_original": true
+  },
+  {
+    "published_file": "examples/csv-orders/test_merge_orders.py",
+    "sha256": "b643dd7d2a7cdb4961b8a550f19ba42b3bad373473e39209fb07bad5b51513dc",
+    "matches_local_original": true
+  },
+  {
+    "published_file": "examples/csv-orders/samples/orders_a.csv",
+    "sha256": "791232572095e6ac3453118376da393c9f9efc5d2e16c4251fdc2eaebedff676",
+    "matches_local_original": true
+  },
+  {
+    "published_file": "examples/csv-orders/samples/orders_b.csv",
+    "sha256": "ce74dfc0c37a40bff4a770a6377031030d54654d02544734abcf3b583c89db95",
+    "matches_local_original": true
+  }
+]

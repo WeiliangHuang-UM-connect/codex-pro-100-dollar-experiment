@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+output/
+private/
+*cookie*
+*token*
+login_bridge.py
+login.html
+receiving-address.json

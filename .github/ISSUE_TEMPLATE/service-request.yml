@@ -1,0 +1,25 @@
+name: 小型数据处理需求
+description: 描述范围与验收条件；不要上传真实客户数据或秘密
+title: "[需求] "
+body:
+  - type: markdown
+    attributes:
+      value: "此 Issue 公开可见。这里只收集需求，不自动构成合同。请仅用脱敏示例，勿填写密码、钱包私钥或真实客户资料。"
+  - type: textarea
+    id: scope
+    attributes:
+      label: 想解决的问题与数据结构
+      description: 例如 CSV 列名、文件数量、行数和处理规则；仅使用合成示例。
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 期望交付和验收条件
+    validations:
+      required: true
+  - type: input
+    id: budget
+    attributes:
+      label: 预算、期望工期及可接受的结算方式
+      description: 不要填钱包地址或金融账户信息。
