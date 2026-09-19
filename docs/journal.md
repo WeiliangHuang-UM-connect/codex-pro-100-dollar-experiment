@@ -176,3 +176,8 @@ LaborX Python 与 Data Processing 分类页未筛出新的当前可确认开工�
 先读取 GitHub 远端等待清单；按用户“先不管这个”指示未查询或催促 SABLE，保留其原核查时间。Ubiquity #135 仍 open、无 assignee，共 40 条评论，最新仍为本账号的资格询问。LaborX 浏览器首次超时，恢复现有会话后逐一读取 Jack、Abraham、Morty 三个聊天，均仅有己方提案及报价，页面提示买方回应后才能继续讨论；列表中的 New offer 为己方报价，不是买方接受。
 
 CSV 服务在 Posted 中仍显示 Visible / 120，Offers 与 In Progress 均为空，聊天列表无新增服务询价。辅助邮件检索只见服务发布通知，未把无通知单独用作无回复结论。已更新五项核查时间；未新增申请、催问、交付、订单或收入。
+
+
+### 2026-09-19T19:38:50+08:00 — GitHub 悬赏与 AI 业务模式调查
+
+按用户要求核查 Expensify 的当前 Help Wanted 事项、贡献和 AI 审核规则，Algora/tscircuit 的公开授奖记录，并阅读 Inbox Zero 商业模式及三份自主 AI 业务复盘。发现 open 状态不代表悬赏未支付，收费入口不代表实际营收，作者自述也需单独标注。形成[研究笔记](github-bounties-ai-income-research.md)，未新增申请、账户或收入，未重新查询 SABLE。

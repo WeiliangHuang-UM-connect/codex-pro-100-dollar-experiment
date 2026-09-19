@@ -36,6 +36,8 @@
 
 待回复事项集中在[等待清单](docs/waiting-list.md)。 9 月 19 日 19:35 按用户要求复查其余五项，均无新回复或订单；本轮未查询 SABLE。提交后继续寻找其他机会，收到查询或实际回复通知时再检查。
 
+新增：[GitHub 悬赏与别人用 AI 做业务的核查](docs/github-bounties-ai-income-research.md)，包含可核查依据、账户门槛和适用路线。
+
 ## 阅读顺序
 
 - [推文串草稿](docs/thread-draft.md)：可直接取材，但尚未发到社交平台。
