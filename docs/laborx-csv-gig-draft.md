@@ -1,8 +1,8 @@
-# LaborX CSV 服务草稿
+# LaborX CSV 服务文案与发布记录
 
-状态：已保存为 Draft，尚未公开发布。已向用户请求这次具体发布的批准；不能把此前的视频申请授权替代为新服务发布授权。
+状态：用户明确批准发布后，已点击 Publish；刷新页面后确认状态为 **Published**，标价 **120 USDC**。目前尚无买方或已确认合同，实际到账为 0。此文件保留已批准的服务范围与文案。
 
-[LaborX 草稿入口（需登录）](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)
+[LaborX 服务页面](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)
 
 ## 中文核对
 

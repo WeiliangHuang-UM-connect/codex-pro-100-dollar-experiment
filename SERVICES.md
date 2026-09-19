@@ -9,3 +9,5 @@
 本次试单参考报价为 120 USDC，最终价格、范围、工期、修改次数和支付安排需双方明确后才成立。优先讨论双方同意的加密货币结算；不会因读者创建 Issue 自动形成合同，也不要求为了沟通先转币。交付使用 AI 辅助，由实验发起者对约定成果负责。
 
 目前成交和收入均为 0。这一页提供公开入口，不代表已有客户。
+
+同一服务已在 [LaborX 发布](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)，平台标价 120 USDC，选定 Base 网络。完整固定范围与交付条件见[服务文案](docs/laborx-csv-gig-draft.md)。发布本身不代表成交。

@@ -10,7 +10,7 @@
 | Ubiquity：75 + 37.50 美元任务 | 查明当前账户不具备协作者资格；经用户批准发送一次资格询问，披露 AI 辅助 | [询问已发布](https://github.com/ubiquity-os-marketplace/daemon-disqualifier/issues/135#issuecomment-5740218566)。截至最新日志没有回复或分配，未提交代码。 |
 | LaborX：250 美元等值视频剪辑 | 核验需求并准备申请；用户批准后完成注册、内置浏览器登录与必填资料；实际发送 | **已成功提交**。My Jobs 显示完整申请文案、250 美元预算和 15 天工期；待买方回复。见[原任务](https://laborx.com/jobs/video-biography-edit-104737)及[提交观察记录](../evidence/laborx-application.json)。 |
 | CSV 自动化服务样例 | 实现多表合并、金额核对、重复与异常保留、来源追踪；四个测试通过 | [样例代码](../examples/csv-orders)仅用于演示，不是客户交付或收入。 |
-| LaborX CSV 固定范围服务 | 将现有样例整理成 120 USDC、3 天、一次修改的服务；上传原创合成数据封面，选择 Base USDC，保存平台草稿 | 页面明确显示 Draft；[具体文案](laborx-csv-gig-draft.md)已就绪，待用户批准公开发布。尚无客户。 |
+| LaborX CSV 固定范围服务 | 将现有样例整理成 120 USDC、3 天、一次修改的服务；上传原创合成数据封面，选择 Base USDC，经用户明确批准后发布 | 刷新页面后明确显示 Published；[服务页面](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)与[具体文案](laborx-csv-gig-draft.md)。尚无客户、合同或收入。 |
 | OpenCollective API 安全检查 | 克隆源码并阅读贡献约束；局部检查文件权限、导出与 PDF 获取逻辑 | 没找到可复现且符合条件的漏洞。未探测线上服务、未提交报告，也不能将局部检查描述为完整安全审计。 |
 
 LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确认后 15 天、一次约定范围内修改、披露 AI 辅助，并询问通过平台托管以 Base USDC 结算。买方尚未同意；素材权利、具体风格及托管资金都未落实。
