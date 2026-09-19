@@ -7,8 +7,16 @@
   "text_matches_after_line_ending_normalization": true,
   "proposed_usd": 250,
   "delivery_hours_after_confirmation": 48,
-  "budget_confirmed": false,
-  "assignment_confirmed": false,
-  "payout_rail_confirmed": false,
-  "verified_receipts_usd": 0
+  "budget_confirmed": true,
+  "assignment_confirmed": true,
+  "payout_rail_confirmed": true,
+  "verified_receipts_usd": 0,
+  "payout_rail": "PayPal",
+  "user_payout_readiness_confirmed": false,
+  "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
+  "buyer_confirmation_created_at": "2026-09-19T09:14:01Z",
+  "last_verified_at": "2026-09-19T17:21:10+08:00",
+  "confirmed_usd": 250,
+  "ai_assistance_eligible": true,
+  "escrow_funding_verified": false
 }

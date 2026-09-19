@@ -106,3 +106,14 @@ SABLE 今天已有维护者明确确认 250 美元、PayPal 付款的分配记�
 - LaborX fix 搜索返回 48 项；可见卡片多数是旧需求、卖方广告或地点受限任务，没有筛出当前可确认开工的新单。
 
 本轮没有新增申请、客户交付、合同或付款；不能把渠道调查和日志更新当作收益推进。已记录[核验摘要](../evidence/eligibility-screening-2026-09-19.json)，保留等待清单的旧检查时间。实际到账和新增直接支出仍为 0。观察时间：2026-09-19T17:14:56+08:00。
+
+
+## 2026-09-19T17:21:10+08:00 — SABLE 买方确认 250 美元，任务已分配
+
+用户收到邮件后要求检查。通过 GitHub API 读取到维护者 [09:14:01 UTC 回复](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385)，明确确认独立试单预算 250 美元、验收后付款、48 小时交付目标，允许 AI/Codex 辅助；Issue assignees 已包含本账号。范围为 SABLE-001 空流，需 HTTP 200 DONE-only 本地端点和正常内容对照、请求/重试次数、终止信号、持久化助手输出、独立进程复读、原始机器可读证据及 SHA-256 清单。
+
+买方指定 PayPal，用户此前偏好 USDC，尚未确认可用 PayPal 收款账户；已向用户询问，未代为接受新的收款条件。按买方回复时间推算，48 小时目标为 2026-09-21 17:14:01（Asia/Shanghai），不能擅自假定付款方式确认会重置时钟。付款承诺及任务分配不等于托管已入金或到账。实际到账仍为 0 美元。
+
+准备工作：git ls-remote 核实 v2.0.1 标签解析为源码提交 51d10ecfddadc45fb2173ff161e40e7bcf48d0be；该精确哈希尚需与维护者对齐。当前 PATH 中没有 java/javac/mvn，尚未运行主实验，也未宣称复现。Ubiquity #135 同次按用户请求检查，最后一条仍是原询问，无维护者答复。
+
+用户要求先核查 PayPal 开户条件再评估收款能力。官方条款表明须按真实居住地区开户，且收取服务报酬的权限依地区及账户类型而异；目前未创建账户、未确认收款可用，也未向买方宣称 PayPal 已准备好。地区资格研究不包含用户个人身份材料。来源：[PayPal 全球地区](https://www.paypal.com/hk/webapps/mpp/country-worldwide)、[用户协议](https://www.paypal.com/c2/legalhub/paypal/useragreement-full)。

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:10:38+08:00",
+  "updated_at": "2026-09-19T17:21:10+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -31,7 +31,7 @@
       "kind": "eligibility_inquiry",
       "source_url": "https://github.com/ubiquity-os-marketplace/daemon-disqualifier/issues/135#issuecomment-5740218566",
       "status": "awaiting_maintainer_reply",
-      "last_verified_at": "2026-09-19T16:58:23+08:00",
+      "last_verified_at": "2026-09-19T17:21:10+08:00",
       "waiting_for": "Eligibility and paid assignment authorization",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives"
     },
@@ -63,12 +63,18 @@
       "kind": "paid_scope_application",
       "source_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
       "recipient": "socksninja",
-      "status": "awaiting_budget_scope_assignment_and_payout_confirmation",
+      "status": "buyer_confirmed_and_assigned_payout_readiness_pending",
       "amount_usd_proposed": 250,
       "delivery_hours_after_confirmation": 48,
-      "last_verified_at": "2026-09-19T09:09:02Z",
-      "waiting_for": "Maintainer confirms a separately funded zero-chunk verification, AI eligibility, assignment, acceptance boundary and usable payout rail",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives"
+      "last_verified_at": "2026-09-19T17:21:10+08:00",
+      "waiting_for": "User PayPal receiving readiness or buyer agreement to another rail; exact source revision alignment; then reproducible evidence delivery and acceptance",
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
+      "buyer_confirmed_usd": 250,
+      "payout_rail": "PayPal",
+      "ai_assistance_eligible": true,
+      "assignment_confirmed": true,
+      "target_deadline_from_buyer_confirmation": "2026-09-21T17:14:01+08:00"
     }
   ]
 }

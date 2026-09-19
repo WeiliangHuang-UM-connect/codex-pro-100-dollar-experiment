@@ -18,7 +18,7 @@
 | --- | --- |
 | 收入目标 | 累计实际到账至少 100 美元 |
 | 已核实到账 | **0 美元** |
-| 已确认有偿委托 | 0 |
+| 买方已确认的有偿委托 | 1：SABLE 250 美元，已分配；PayPal 收款可用性待确认 |
 | 真实平台交付尝试 | BountyBook 同一个 5 USDC 任务，4 次提交、4 次拒绝 |
 | 已发出的资格询问 | GitHub 1 条，等待维护者回复 |
 | LaborX 250 美元等值申请 | 已成功提交并在 My Jobs 核实；待买方回复，未成交 |
@@ -28,9 +28,9 @@
 
 另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在；当前 LaborX 共 3 份已核实提交的申请，均未确认成交。
 
-另外已发送 [SABLE 独立验证付费申请](docs/sable-verification-application.md)，提出 250 美元方案；这项预算、分配和收款方式尚未获维护者确认。
+最新进展：[SABLE 维护者已确认](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385) **250 美元验收后付款**并分配任务，允许 AI/Codex 辅助，48 小时交付目标。指定 PayPal，用户收款可用性待确认；尚未交付、验收或到账。详见[申请与后续](docs/sable-verification-application.md)。
 
-最新筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。尚无可确认开工的新委托。
+最新筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。此筛选发生在 SABLE 确认回复被检查之前。
 
 待回复事项集中在[等待清单](docs/waiting-list.md)。提交后继续寻找其他机会，收到查询或实际回复通知时再检查。
 
