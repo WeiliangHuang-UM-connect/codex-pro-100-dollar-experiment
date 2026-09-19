@@ -1,0 +1,51 @@
+{
+  "session_id" : "synthetic-session",
+  "user_id" : "synthetic-user",
+  "summary" : "",
+  "context" : [ {
+    "id" : "1193f82e-1f17-4b28-a21f-b45c889176a6",
+    "name" : null,
+    "role" : "USER",
+    "content" : [ {
+      "type" : "text",
+      "text" : "Return SABLE_LOCAL_CONTROL_OK"
+    } ],
+    "metadata" : { },
+    "timestamp" : "2026-09-19 09:38:16.057",
+    "usage" : null
+  }, {
+    "id" : "local-control",
+    "name" : "local-verifier",
+    "role" : "ASSISTANT",
+    "content" : [ {
+      "type" : "text",
+      "text" : "SABLE_LOCAL_CONTROL_OK"
+    } ],
+    "metadata" : { },
+    "timestamp" : "2026-09-19 09:38:16.824",
+    "usage" : null
+  } ],
+  "reply_id" : "9647ed08c1304ace864afe66f1b10a1c",
+  "cur_iter" : 0,
+  "shutdown_interrupted" : false,
+  "permission_context" : {
+    "mode" : "default",
+    "working_directories" : { },
+    "allow_rules" : { },
+    "deny_rules" : { },
+    "ask_rules" : { }
+  },
+  "tool_context" : {
+    "max_cache_files" : 100,
+    "max_cache_bytes" : 25000.0,
+    "activated_groups" : [ ],
+    "spawn_registry" : { }
+  },
+  "tasks_context" : {
+    "tasks" : [ ]
+  },
+  "plan_mode_context" : {
+    "plan_active" : false,
+    "current_plan_file" : null
+  }
+}

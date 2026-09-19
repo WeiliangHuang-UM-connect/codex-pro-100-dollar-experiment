@@ -124,3 +124,8 @@ SABLE 今天已有维护者明确确认 250 美元、PayPal 付款的分配记�
 已向买方发出[收款方式及精确版本询问](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740746506)，尚未假定对方同意 USDC。已构建固定源码版本的本地 HTTP 复现程序：正常响应、429 重试对照和 DONE-only 空流。Windows run-002 三组观察完整，空流仅 1 请求、正常结束且无助手输出，正常/重试对照均持久化成功并由另一 JVM 读回。
 
 首次 run-001 JVM 启动因本机内存提交限制失败；调整后 run-002 成功。补强测试超时处理后的 run-003 又遇到独立读取 JVM 原生内存分配失败，属于环境证据缺口，不是框架没有复现。为完成当前版本可核验交付，添加仅手动触发的公开仓库标准 Ubuntu Actions 任务；不使用付费大型 runner、不上传计费缓存或构建制品，以日志保留合成 JSON 证据。当前未交付验收，到账仍为 0。
+
+
+### 2026-09-19T17:41:26+08:00 — SABLE 当前版本 CI 验证成功，验收包就绪
+
+[标准 Ubuntu CI](https://github.com/WeiliangHuang-UM-connect/codex-pro-100-dollar-experiment/actions/runs/35435203603) 已完成且 success。从日志解码的 14 个 JSON 文件经过哈希、执行代码哈希、请求计数、磁盘内容与独立 JVM 读取的一致性核验。空流 1 请求 / 0 重试 / onComplete / 无输出、无状态文件；正常对照 1 请求，429 对照 2 请求，两者均输出并持久化标记。分类 VERIFIED 仅适用于锁定版本与本地输入，不扩大到线上普遍性或 fallback。完整报告见 [交付报告](../deliverables/sable-001/REPORT.md)。当前验收包准备完成，尚未登记为买方验收或收入。

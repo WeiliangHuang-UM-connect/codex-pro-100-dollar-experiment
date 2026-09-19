@@ -1,0 +1,20 @@
+{
+  "scenario" : "done-only",
+  "runtime_source_revision" : "51d10ecfddadc45fb2173ff161e40e7bcf48d0be",
+  "java_version" : "17.0.20.1",
+  "configured_max_attempts" : 3,
+  "http_request_count" : 1,
+  "http_retries_observed" : 0,
+  "terminal_signal" : "onComplete",
+  "delivered_assistant_texts" : [ ],
+  "call_exception" : "",
+  "parent_pid" : 2490,
+  "fresh_process_read" : {
+    "observed_at" : "2026-09-19T09:38:18.520120524Z",
+    "state_present" : false,
+    "assistant_count" : 0,
+    "reader_pid" : 2594,
+    "assistant_texts" : [ ]
+  },
+  "observed_at" : "2026-09-19T09:38:18.829306217Z"
+}

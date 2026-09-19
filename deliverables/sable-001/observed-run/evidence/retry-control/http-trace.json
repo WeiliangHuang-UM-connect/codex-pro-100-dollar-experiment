@@ -1,0 +1,17 @@
+[ {
+  "method" : "POST",
+  "response_status" : 429,
+  "path" : "/v1/chat/completions",
+  "response_body" : "{\"error\":{\"message\":\"synthetic rate limit\",\"type\":\"rate_limit_exceeded\"}}",
+  "at" : "2026-09-19T09:38:17.749102681Z",
+  "request_body" : "{\"model\":\"synthetic-model\",\"messages\":[{\"role\":\"system\",\"content\":\"Return the supplied harmless marker.\",\"name\":\"system\"},{\"role\":\"user\",\"content\":\"Return SABLE_LOCAL_CONTROL_OK\"}],\"stream\":true,\"stream_options\":{\"include_usage\":true}}",
+  "request_number" : 1
+}, {
+  "method" : "POST",
+  "response_status" : 200,
+  "path" : "/v1/chat/completions",
+  "response_body" : "data: {\"id\":\"local-control\",\"object\":\"chat.completion.chunk\",\"choices\":[{\"index\":0,\"delta\":{\"role\":\"assistant\",\"content\":\"SABLE_LOCAL_CONTROL_OK\"},\"finish_reason\":null}]}\n\ndata: {\"id\":\"local-control\",\"object\":\"chat.completion.chunk\",\"choices\":[{\"index\":0,\"delta\":{},\"finish_reason\":\"stop\"}]}\n\ndata: [DONE]\n\n",
+  "at" : "2026-09-19T09:38:17.793696936Z",
+  "request_body" : "{\"model\":\"synthetic-model\",\"messages\":[{\"role\":\"system\",\"content\":\"Return the supplied harmless marker.\",\"name\":\"system\"},{\"role\":\"user\",\"content\":\"Return SABLE_LOCAL_CONTROL_OK\"}],\"stream\":true,\"stream_options\":{\"include_usage\":true}}",
+  "request_number" : 2
+} ]

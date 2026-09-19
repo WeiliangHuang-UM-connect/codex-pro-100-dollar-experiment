@@ -1,0 +1,20 @@
+{
+  "scenario" : "retry-control",
+  "runtime_source_revision" : "51d10ecfddadc45fb2173ff161e40e7bcf48d0be",
+  "java_version" : "17.0.20.1",
+  "configured_max_attempts" : 3,
+  "http_request_count" : 2,
+  "http_retries_observed" : 1,
+  "terminal_signal" : "onComplete",
+  "delivered_assistant_texts" : [ "SABLE_LOCAL_CONTROL_OK" ],
+  "call_exception" : "",
+  "parent_pid" : 2490,
+  "fresh_process_read" : {
+    "state_present" : true,
+    "assistant_count" : 1,
+    "reader_pid" : 2565,
+    "assistant_texts" : [ "SABLE_LOCAL_CONTROL_OK" ],
+    "observed_at" : "2026-09-19T09:38:18.440025376Z"
+  },
+  "observed_at" : "2026-09-19T09:38:18.457814574Z"
+}

@@ -1,0 +1,9 @@
+[ {
+  "method" : "POST",
+  "response_status" : 200,
+  "path" : "/v1/chat/completions",
+  "response_body" : "data: [DONE]\n\n",
+  "at" : "2026-09-19T09:38:18.465548106Z",
+  "request_body" : "{\"model\":\"synthetic-model\",\"messages\":[{\"role\":\"system\",\"content\":\"Return the supplied harmless marker.\",\"name\":\"system\"},{\"role\":\"user\",\"content\":\"Return SABLE_LOCAL_CONTROL_OK\"}],\"stream\":true,\"stream_options\":{\"include_usage\":true}}",
+  "request_number" : 1
+} ]

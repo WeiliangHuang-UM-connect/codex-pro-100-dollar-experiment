@@ -1,0 +1,15 @@
+{
+  "evidence/done-only/fresh-read.json": "f37e282945127c86bee1d654ca8522d0c41c061baa2c681278c0c6899577a9ed",
+  "evidence/done-only/http-trace.json": "4e0c998961a5880f47cb365bb2c98e634d53d417f6711fb21f44d24935781a5a",
+  "evidence/done-only/result.json": "93e7e141f2509fbf3855dd48096fa30baa8ac83c6484166e19425475ab97b7c1",
+  "evidence/normal-control/fresh-read.json": "c695b376cf02bcd8bd448fc12c6efa1a618b01a939e45570a2193dceb820f6d9",
+  "evidence/normal-control/http-trace.json": "58e0fbe0c8a4d13513e3dbbceb0c955ba4afddfb2b14d3a39842fb5dba94827f",
+  "evidence/normal-control/result.json": "902f3ead868973e87327b6aee651ba636bae89258136b10091302fea688bd7b4",
+  "evidence/normal-control/state/synthetic-user/synthetic-session/agent_state.json": "a297d3e57f117611786dce254ed2e844303ddf70f6f2c5e69b932bc1019900a0",
+  "evidence/retry-control/fresh-read.json": "984281b0c7348c91a45547ab708d922b33fc6170793b29566962669766725f5a",
+  "evidence/retry-control/http-trace.json": "75a9b234d64df9e3812888a2a05e7d3cdc0645f46a1df1d69b62b8497fb6ade0",
+  "evidence/retry-control/result.json": "7a52cac4f4b1e01f0dca80c30f6a8c8079ec8ae042cb4e47d945bbb209620dae",
+  "evidence/retry-control/state/synthetic-user/synthetic-session/agent_state.json": "645b9b309d18d75940ead67988ef3b3cafcd3495f117ab0450286d603565b1f4",
+  "evidence/summary.json": "3f493d8ef237e2ca4537113c18175789d66b651be42a8dcb15e3fd650e2be69f",
+  "provenance.json": "c0bc8e4f9c0cb1307e05b6a25694125f5af1267c2c39f0b9243f204b50d63445"
+}
