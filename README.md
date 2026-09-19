@@ -8,6 +8,8 @@
 
 另已获用户批准并在 LaborX **公开发布 [120 USDC 的 CSV 自动化服务](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)**；刷新后平台状态为 Published。收款选项为 Base USDC，尚无客户或到账。具体范围见[服务文案](docs/laborx-csv-gig-draft.md)。
 
+后续筛选：已准备[150 美元数据导入试单申请](docs/data-import-pilot-application.md)，尚未发送；旧岗位是否仍有需求需要买方确认。
+
 标题来自实验发起者的推文选题。“两天”和“烧完 Pro”尚未由完整起止时间、额度快照或账单证实；“赚 100 刀”是目标，不是结果。本仓库不会把标价、申请、测试通过或平台返回 submitted 算成收入。
 
 ## 先看结果

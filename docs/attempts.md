@@ -43,6 +43,14 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 | BasedAgents | 官方说明有 Base USDC 任务，但付款需买方验收后签名；公开状态和任务接口本次均返回 HTTP 403，未能核实具体可接订单。没有安装凭证管理工具、注册或领任务。 | [官方机器说明](https://basedagents.ai/.well-known/agent.json) |
 | 其他 Web3 候选 | 已关闭的任务、卖家的服务报价、不可提现积分、提示词泄露诱饵、要求无法证明的指定模型使用记录，均未当作可执行订单。 | 本地历史核验记录；未对无确切原始链接的条目补造引用 |
 
+## 发布后的新增筛选
+
+| 候选 | 实际核验与决定 |
+| --- | --- |
+| [CoinGecko bot reliability](https://laborx.com/jobs/enhance-coingecko-bot-reliability-96610) | 标价 300 美元，但截止日 2025-09-24；没有确认仍招人，未申请或写交付代码。 |
+| [Community Calendar Manager](https://laborx.com/jobs/community-calendar-manager-content-curator-104725) | 近期广告，实际每周 100 美元 BTC、持续至少 3 个月，需视频面试与人工持续值守；未承诺参与。 |
+| [Data Operations & Product Engineer](https://laborx.com/jobs/data-operations-amp-product-engineer-102259) | 旧岗位，同一买方近期仍发需求。已准备单独 150 美元 CSV 导入试单询问，尚未发送或获分配；[全文](data-import-pilot-application.md)。 |
+
 ## 证据层级
 
 “看到一个广告” → “确认参与资格” → “得到任务/合同” → “提交并通过验收” → “实际到账”，每一步分开记。上表数量不等于投递量，更不等于成交量。
