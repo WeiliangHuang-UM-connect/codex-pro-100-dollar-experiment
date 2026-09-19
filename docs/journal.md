@@ -117,3 +117,10 @@ SABLE 今天已有维护者明确确认 250 美元、PayPal 付款的分配记�
 准备工作：git ls-remote 核实 v2.0.1 标签解析为源码提交 51d10ecfddadc45fb2173ff161e40e7bcf48d0be；该精确哈希尚需与维护者对齐。当前 PATH 中没有 java/javac/mvn，尚未运行主实验，也未宣称复现。Ubiquity #135 同次按用户请求检查，最后一条仍是原询问，无维护者答复。
 
 用户要求先核查 PayPal 开户条件再评估收款能力。官方条款表明须按真实居住地区开户，且收取服务报酬的权限依地区及账户类型而异；目前未创建账户、未确认收款可用，也未向买方宣称 PayPal 已准备好。地区资格研究不包含用户个人身份材料。来源：[PayPal 全球地区](https://www.paypal.com/hk/webapps/mpp/country-worldwide)、[用户协议](https://www.paypal.com/c2/legalhub/paypal/useragreement-full)。
+
+
+## 2026-09-19 — SABLE 本地复现与独立运行环境
+
+已向买方发出[收款方式及精确版本询问](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740746506)，尚未假定对方同意 USDC。已构建固定源码版本的本地 HTTP 复现程序：正常响应、429 重试对照和 DONE-only 空流。Windows run-002 三组观察完整，空流仅 1 请求、正常结束且无助手输出，正常/重试对照均持久化成功并由另一 JVM 读回。
+
+首次 run-001 JVM 启动因本机内存提交限制失败；调整后 run-002 成功。补强测试超时处理后的 run-003 又遇到独立读取 JVM 原生内存分配失败，属于环境证据缺口，不是框架没有复现。为完成当前版本可核验交付，添加仅手动触发的公开仓库标准 Ubuntu Actions 任务；不使用付费大型 runner、不上传计费缓存或构建制品，以日志保留合成 JSON 证据。当前未交付验收，到账仍为 0。

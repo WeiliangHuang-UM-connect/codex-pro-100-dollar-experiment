@@ -1,0 +1,34 @@
+name: SABLE-001 independent reproduction
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  reproduce:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      MAVEN_OPTS: -Xms32m -Xmx384m -Dfile.encoding=UTF-8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - name: Build pinned runtime and execute real HTTP cases
+        run: python3 deliverables/sable-001/run.py --source "$RUNNER_TEMP/agentscope-java" --output "$RUNNER_TEMP/sable-run"
+      - name: Verify and expose only synthetic JSON evidence in the run log
+        run: |
+          python3 deliverables/sable-001/verify.py "$RUNNER_TEMP/sable-run"
+          python3 - <<'PY'
+          import base64, json, os, pathlib
+          root = pathlib.Path(os.environ['RUNNER_TEMP']) / 'sable-run'
+          manifest = json.loads((root/'SHA256SUMS.json').read_text())
+          for rel in [*manifest, 'SHA256SUMS.json']:
+              print('SABLE_EVIDENCE_FILE ' + rel + ' ' + base64.b64encode((root/rel).read_bytes()).decode())
+          PY
+      - name: Diagnostic tail on failure
+        if: failure()
+        run: tail -n 100 "$RUNNER_TEMP/sable-run/build.log" || true
