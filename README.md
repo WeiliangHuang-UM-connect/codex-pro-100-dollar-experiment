@@ -4,6 +4,8 @@
 
 **截至 2026-09-19，已核实到账：0 美元。目标未完成。**
 
+20:21 状态：目标暂时受阻。Upwork 登录/浏览器入口尚不可操作，已有接洽等待实际回复；申请草稿、等待清单和已验收成果均已保存。恢复登录或收到回复后继续。
+
 最新进展：**SABLE 技术交付已获[买方明确验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884)，250 美元固定费用现已应付。** 记为应收未收，实际到账仍为 0。买方已确认尚未发起付款或付款请求；已在原私下邮件线程再次明确 PayPal 收款邮箱，等待实际转账。详见[交付报告](deliverables/sable-001/REPORT.md)和[验收证据](evidence/sable-acceptance.json)。
 
 另已获用户批准并在 LaborX **公开发布 [120 USDC 的 CSV 自动化服务](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)**；刷新后平台状态为 Published。收款选项为 Base USDC，尚无客户或到账。具体范围见[服务文案](docs/laborx-csv-gig-draft.md)。
