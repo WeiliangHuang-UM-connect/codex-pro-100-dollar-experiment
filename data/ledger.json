@@ -24,7 +24,7 @@
     "2026-09-21 按用户请求复查 8 项等待事项；无新增买方回复、订单或到账证据，SABLE 公开评论改写单独记录。LaborX 浏览器恢复，Upwork 登录状态本轮未检查。",
     "2026-09-21 后续：用户暂时无法登录 Upwork，要求继续 GitHub 悬赏；本轮仅完成来源与当前代码筛选，无新增申请、PR、收入或直接支出。"
   ],
-  "updated_at": "2026-09-21T13:48:27+08:00",
+  "updated_at": "2026-09-21T13:51:43+08:00",
   "confirmed_applications_sent": 5,
   "laborx_gigs_drafted": 1,
   "laborx_gigs_published": 1,
@@ -36,7 +36,7 @@
   "accepted_unpaid_usd": 250,
   "eligibility_or_scope_inquiries_sent": 2,
   "goal_status": "active",
-  "blocker": null,
+  "blocker": "No currently assigned, executable paid scope beyond the already delivered SABLE pilot. Existing proposals require external replies; Upwork login unavailable to user. This does not establish market-wide exhaustion.",
   "accepted_unpaid_usd_basis": "Historical accepted SABLE-001 fee; current settlement commitment unclear after public comment edits. Not verified receipts.",
   "historical_accepted_unpaid_usd": 250,
   "current_reconfirmed_payable_usd": null,

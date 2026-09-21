@@ -20,3 +20,13 @@
 Omi 源码观察：`backend/utils/cloud_tasks.py` blob `39188249e7b4efcf1bc6f6c823c38058ef13ee7f` 的配置验证调用 `assert_account_deletion_queue_exists`；`backend/database/users.py` blob `59328c6fd7b39c0f979eba2e146a6b96f9ce663c` 的待重试筛选使用失败时间与 `deletion_wipe_retry_delay`。这些仅证明相应代码已存在，不证明线上故障已解决或整个实现无误。没有读取生产数据。
 
 近期标题搜索还返回大量自动汇总帖和贡献者自报赏金建议；未将标题金额记为批准预算。上述工作是筛选，不是新交付。Upwork 草稿仍未发送；原等待清单不变，到账仍为 0。
+
+
+## 新增渠道复核
+
+- [AsyncAPI 官方规则](https://www.asyncapi.com/docs/community/010-contribution-guidelines/microgrant-program)优先维护者，分配后才接受对应任务贡献。开放标签查询返回四项：[website#5704](https://github.com/asyncapi/website/issues/5704)、[parser-js#1203](https://github.com/asyncapi/parser-js/issues/1203)、[optimizer#306](https://github.com/asyncapi/optimizer/issues/306)已分配；[training#65](https://github.com/asyncapi/training/issues/65#issuecomment-4717602707)虽然仍 open，但原轮次已完成且发票获确认，未当作新任务。
+- [Mudlet](https://github.com/Mudlet/Mudlet/issues)：本次分别查询开放 bounty-100、bounty-200、bounty-50、bounty-120，均为空；未推断其他标签或未来任务情况。
+- [qmrkt/contracts#5](https://github.com/qmrkt/contracts/issues/5)：原有每个合格漏洞 100 USDC 的承诺，但当前 issue 已关闭且 [PR #9](https://github.com/qmrkt/contracts/pull/9)已合并。没有作为开放悬赏继续研究，也未核实其他人的实际收款。
+- [maxstern.org /book 旧 gist](https://gist.github.com/Mxcks/f0dcbf6ac8a7c3f5c0195d704b9458ac)：索引出现 $150–200，实时 gist 及评论 API 均为 404，预算、分配和付款状态不可核验。不据摘要开发或发送申请。
+
+本轮没有新申请或交付。尚无已获分配、可直接开发的新付费范围；现有申请需要外部回复。到账仍为 0。

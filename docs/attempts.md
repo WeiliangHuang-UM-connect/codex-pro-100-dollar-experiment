@@ -147,3 +147,6 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### 2026-09-21 GitHub 继续筛选
 
 用户暂时无法登录 Upwork，要求继续 GitHub 路线。核查 Expensify、JHipster、Algora、Tarsnap 和 Omi，发现既有实现、未批预算或非现金奖励等限制；未新增申请、PR 或收入。Omi 旧题面提到的部分缺失在当前源码中已经补上。见[完整排除依据](github-screening-2026-09-21.md)。
+
+
+本日后续又核查 AsyncAPI、Mudlet、qmrkt 和旧 /book 委托；未找到当前可认领范围。具体分配、关闭或无法访问证据见[筛选附录](github-screening-2026-09-21.md#新增渠道复核)。未新增申请或收入。
