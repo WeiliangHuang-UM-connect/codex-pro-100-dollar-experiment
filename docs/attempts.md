@@ -142,3 +142,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### Upwork CSV→Airtable 申请草稿
 
 2026-09-19 20:19：核实公开 100 美元岗位，准备[针对性文案与验收计划](upwork-csv-airtable-draft.md)。尚缺已登录申请页、付款验证与 Connects 核查；未提交，未支出。
+
+
+### 2026-09-21 GitHub 继续筛选
+
+用户暂时无法登录 Upwork，要求继续 GitHub 路线。核查 Expensify、JHipster、Algora、Tarsnap 和 Omi，发现既有实现、未批预算或非现金奖励等限制；未新增申请、PR 或收入。Omi 旧题面提到的部分缺失在当前源码中已经补上。见[完整排除依据](github-screening-2026-09-21.md)。

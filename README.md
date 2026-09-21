@@ -6,6 +6,8 @@
 
 9 月 21 日复查：[等待清单](docs/waiting-list.md)共 8 项。四份 LaborX 申请、CSV 服务、Ubiquity 和 Tenstorrent 均未见新回复或订单；LaborX 浏览器本轮已恢复。
 
+9 月 21 日后续：[GitHub 悬赏筛选](docs/github-screening-2026-09-21.md)已更新。用户暂时无法登录 Upwork，继续 GitHub 路线；本轮未新增申请或收入。
+
 **SABLE 状态更正：历史约定 250 美元、技术交付已验收，但当前结算需澄清。** 9 月 21 日发现原付款评论已在 9 月 19 日晚改为“历史／已被取代的贡献者付费模式”说明。保留[原验收摘要](evidence/sable-acceptance.json)与历史金额，不把改写视为原约定自动取消，也不再无条件表述为正在安排付款。实际到账仍为 0；见[本轮证据](evidence/sable-status-2026-09-21.json)。
 
 另已获用户批准并在 LaborX **公开发布 [120 USDC 的 CSV 自动化服务](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)**；刷新后平台状态为 Published。收款选项为 Base USDC，尚无客户或到账。具体范围见[服务文案](docs/laborx-csv-gig-draft.md)。
