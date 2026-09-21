@@ -89,3 +89,9 @@ Algora 通用旧 bounty 地址本轮返回 404，另一 app 地址在网页工�
 Algora付款文档仍无法通过本轮网页请求取得，未根据其它支付公司的国家列表推断支持澳门。Gyroflow第三方pending claim页面中的Total paid 0仅描述对应申领，不能泛化整个项目没有付款。未联系这些维护者、发PR或下载视频。
 
 Open Bounty本轮被重复检查；[现行条款](https://openbounty.app/terms)仍说明测试网USDC没有货币价值，与旧记录一致。未注册、签名或执行测试网任务。
+
+## Algora 收款资格更正与当前入口
+
+2026-09-21 14:46补充：[官方付款文档源码](https://github.com/algora-io/algora/blob/74a49d7728400152f5d640ac8d461e6664b7c2eb/priv/content/docs/payments.md)列有Macao SAR China；[Stripe Connect国家表](https://github.com/algora-io/algora/blob/74a49d7728400152f5d640ac8d461e6664b7c2eb/lib/algora/psp/connect_countries.ex)列有Macao / MO。该commit日期为2026-07-18；证据表明官方源码支持澳门，尚未核实线上部署及用户本人完成Stripe入驻的结果。不能把网页打不开误作地区不支持，也不能把地区支持等同账户获批。
+
+浏览器访问源码中的/user/settings路由后进入[登录页](https://algora.io/auth/login?return_to=%2Fuser%2Fsettings)，Developer方式显示GitHub登录。用户目前无法操作；未授权OAuth、创建收款账户或提交敏感资料。Algora仍是可恢复的渠道，当前未申请其悬赏。
