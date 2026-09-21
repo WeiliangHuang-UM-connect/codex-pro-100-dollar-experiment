@@ -4,6 +4,8 @@
 
 **截至 2026-09-21，已核实到账：0 美元。目标未完成。**
 
+**当前目标状态：受阻（blocked）。** 已有申请和 SABLE 结算澄清等待外部答复；最新筛选未取得可直接执行的新付费范围，用户暂不能登录 Upwork。成果与等待事项已保存；需要买方回复、可靠的新付费入口或账户恢复后继续。
+
 9 月 21 日复查：[等待清单](docs/waiting-list.md)共 8 项。四份 LaborX 申请、CSV 服务、Ubiquity 和 Tenstorrent 均未见新回复或订单；LaborX 浏览器本轮已恢复。
 
 9 月 21 日后续：[GitHub 悬赏筛选](docs/github-screening-2026-09-21.md)已更新。用户暂时无法登录 Upwork，继续 GitHub 路线；新增核查 AsyncAPI、Mudlet、qmrkt 等仍未取得可执行委托，未新增申请或收入。

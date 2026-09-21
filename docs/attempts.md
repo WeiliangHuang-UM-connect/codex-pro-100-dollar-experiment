@@ -153,3 +153,6 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 
 
 本日后续：向已验收的 SABLE 原委托发出[结算澄清](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5756005190)，请求明确原 250 美元费用和付款日期。发布与正文已核实；未收到新承诺或到账。
+
+
+本日收尾核查 Omnigres（计划关闭）、Permify 和 Tailcall，见[具体证据](github-screening-2026-09-21.md)。既有执行障碍连续存在，目标已标记 blocked；有买方回复、可靠新付费入口或账户恢复后再推进。目标未完成。

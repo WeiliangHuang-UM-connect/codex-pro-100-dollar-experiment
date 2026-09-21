@@ -40,3 +40,20 @@ Omi 源码观察：`backend/utils/cloud_tasks.py` blob `39188249e7b4efcf1bc6f6c8
 - [#3378 Schedule triggers](https://github.com/archestra-ai/archestra/issues/3378)：维护者曾出价 $500，当前已关闭且正文指定贡献者；原 [PR #3432](https://github.com/archestra-ai/archestra/pull/3432)已关闭未合并。不据此推断任务重新开放。
 
 官方贡献规则要求先完成 onboarding，允许 AI 辅助但需审查和测试，禁止对已经分配的悬赏提交竞争 PR 或 attempt。本轮无申请。
+
+
+## Omnigres 计划关闭
+
+[官方 Bounties wiki](https://github.com/omnigres/omnigres/wiki/Bounties)顶部明确表示悬赏计划已关闭，其余说明仅为历史记录。未根据旧金额标签申请或开发。
+
+
+## Permify 与 Tailcall 收尾核查
+
+| 候选 | 来源与当前结论 |
+| --- | --- |
+| Permify #837 | [任务](https://github.com/Permify/permify/issues/837)已被维护者关闭为 completed，历史 $250 不是新任务。 |
+| Permify CLI #2 | [任务](https://github.com/Permify/permify-cli/issues/2)仍 open，主分支有功能缺口，但[官方 Algora 板](https://algora.io/Permify/bounties)显示 Open 0 / Completed 13。[分配规则](https://github.com/Permify/permify-cli/issues/2#issuecomment-1846793379)要求先取得确认，当前没有新分配或预算确认。 |
+| Tailcall 移动 Lighthouse #217 | [任务](https://github.com/tailcallhq/tailcallhq.github.io/issues/217)已于 2026-07-13 关闭、not_planned；Algora 仍列为 open，不能单靠挂牌判断。 |
+| Tailcall rust-grpc #44 | [原任务](https://github.com/tailcallhq/rust-grpc/issues/44)仍 open/unassigned，有[历史 $50 出价](https://github.com/tailcallhq/rust-grpc/issues/44#issuecomment-2506754276)；[当前挂牌](https://algora.io/tailcallhq/bounties)仍在。开价后的可用性询问未见维护者回复，main 最后提交为 2024-12-03；[最新 #86](https://github.com/tailcallhq/rust-grpc/pull/86)仍无评审。当前受理与付款资格未核实，不认定已获委托，也不断言悬赏撤销。 |
+
+旧 Algora 机器人付款文档链接目前无法访问，未确认本人的澳门收款资格或支付轨道。存在其他提案并不是自动排除条件；本轮实际缺少的是当前受理、分配或可兑现预算的证据。没有新增申请或 PR。
