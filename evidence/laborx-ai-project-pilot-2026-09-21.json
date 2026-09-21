@@ -1,0 +1,22 @@
+{
+  "observed_at": "2026-09-21T14:05:27+08:00",
+  "source_url": "https://laborx.com/jobs/ai-project-partner-103750",
+  "recipient": "joe guru",
+  "listing_published_on": "2026-07-21",
+  "listing_displayed_deadline": "2026-07-31",
+  "listing_displayed_budget_usd": 800,
+  "proposed_budget_usd": 150,
+  "proposed_deadline_days": 3,
+  "proposal_document": "docs/ai-project-pilot-application.md",
+  "submitted": true,
+  "verification_surface": "https://laborx.com/jobs/my",
+  "verification": "After Send, My Jobs showed the complete submitted proposal, Budget $150, Deadline 3 days.",
+  "buyer_reply_verified": false,
+  "buyer_acceptance_verified": false,
+  "escrow_funded_verified": false,
+  "contract_signed": false,
+  "receipt_verified": false,
+  "ai_assistance_disclosed": true,
+  "scope": "One agreed defect in an existing Python API or data-processing script; reproduction, patch, regression tests, setup notes; one in-scope revision.",
+  "start_conditions": "Availability, scope, sample inputs/code and AI eligibility agreed; LaborX escrow milestone funded."
+}

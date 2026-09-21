@@ -57,3 +57,19 @@ Omi 源码观察：`backend/utils/cloud_tasks.py` blob `39188249e7b4efcf1bc6f6c8
 | Tailcall rust-grpc #44 | [原任务](https://github.com/tailcallhq/rust-grpc/issues/44)仍 open/unassigned，有[历史 $50 出价](https://github.com/tailcallhq/rust-grpc/issues/44#issuecomment-2506754276)；[当前挂牌](https://algora.io/tailcallhq/bounties)仍在。开价后的可用性询问未见维护者回复，main 最后提交为 2024-12-03；[最新 #86](https://github.com/tailcallhq/rust-grpc/pull/86)仍无评审。当前受理与付款资格未核实，不认定已获委托，也不断言悬赏撤销。 |
 
 旧 Algora 机器人付款文档链接目前无法访问，未确认本人的澳门收款资格或支付轨道。存在其他提案并不是自动排除条件；本轮实际缺少的是当前受理、分配或可兑现预算的证据。没有新增申请或 PR。
+
+
+## 转向其他机会后的新候选
+
+2026-09-21，按用户停止 SABLE 跟进、寻找其他机会的新指示，只读核查：
+
+| 候选 | 核实结论 |
+| --- | --- |
+| [Claude Builders #4](https://github.com/claude-builders-bounty/claude-builders-bounty/issues/4) | Open，标题/题面列 150 美元；[README](https://github.com/claude-builders-bounty/claude-builders-bounty)称通过 Opire/Stripe 支付。本轮读取的 1515 条评论未发现 Bot/OWNER/MEMBER/COLLABORATOR 的预算或结算确认，无法核实资金保障，未投入实现或提交。 |
+| [FinMind](https://github.com/rohitdash08/FinMind) | 仓库于 2026-06-19 归档，不能作为当前开放协作入口。 |
+| [ZIO $250 标签](https://github.com/zio/zio/labels/%24250) | 本仓标签查询没有 open 任务；不泛化到 ZIO 所有项目。 |
+| [Agent Bounties #659](https://github.com/NSPG13/agent-bounties/issues/659) | 约 1 USDC 毛利、要求预付 claim bond 并自资子悬赏，不符合本次优先无前期付款的方向。 |
+| [Algora Turso 活动](https://algora.io/challenges/turso) | 官方显示活动已完成、提交关闭、所有奖金已授予。 |
+| [Algora Golem 活动](https://algora.io/challenges/golem) | [对应 #1004](https://github.com/golemcloud/golem/issues/1004)已关闭并标记 Rewarded，为 2024 年活动。 |
+
+Algora 通用旧 bounty 地址本轮返回 404，另一 app 地址在网页工具不可访问；未获得可核实的当前 funded/escrow 清单，不据此断言整个平台没有新任务。上述项目未发申请。同期在 LaborX 发送了[新的 150 美元条件试单申请](ai-project-pilot-application.md)，等待回复；申请不是资助承诺。

@@ -4,13 +4,15 @@
 
 **截至 2026-09-21，已核实到账：0 美元。目标未完成。**
 
-**当前目标状态：受阻（blocked）。** 已有申请和 SABLE 结算澄清等待外部答复；最新筛选未取得可直接执行的新付费范围，用户暂不能登录 Upwork。成果与等待事项已保存；需要买方回复、可靠的新付费入口或账户恢复后继续。
+**当前方向：按用户要求停止 SABLE 跟进，寻找其他机会。** 技术交付与历史验收保留，但不再为其投入催问或检查。目标工具仍显示此前的受阻状态；本轮按新指示继续筛选。Upwork 暂不能登录。
 
-9 月 21 日复查：[等待清单](docs/waiting-list.md)共 8 项。四份 LaborX 申请、CSV 服务、Ubiquity 和 Tenstorrent 均未见新回复或订单；LaborX 浏览器本轮已恢复。
+**最新进展：已向 LaborX 的 AI 项目买方发送 [150 美元/3 天技术试单申请](docs/ai-project-pilot-application.md)，并在 My Jobs 核实全文及报价。** 提案仅复现和修复一个约定的 Python 缺陷，先确认旧需求仍有效、范围和托管资金。目前 LaborX 累计 5 份已发申请，尚未确认新成交。
+
+9 月 21 日复查：[等待清单](docs/waiting-list.md)当时共 8 项；停止 SABLE 跟进后为 7 项，后新增 Joe 试单申请，当前共 8 项。四份 LaborX 申请、CSV 服务、Ubiquity 和 Tenstorrent 均未见新回复或订单；LaborX 浏览器本轮已恢复。
 
 9 月 21 日后续：[GitHub 悬赏筛选](docs/github-screening-2026-09-21.md)已更新。用户暂时无法登录 Upwork，继续 GitHub 路线；新增核查 AsyncAPI、Mudlet、qmrkt 等仍未取得可执行委托，未新增申请或收入。
 
-**SABLE 状态更正：历史约定 250 美元、技术交付已验收，但当前结算需澄清。** 9 月 21 日发现原付款评论已在 9 月 19 日晚改为“历史／已被取代的贡献者付费模式”说明。保留[原验收摘要](evidence/sable-acceptance.json)与历史金额，不把改写视为原约定自动取消，也不再无条件表述为正在安排付款。已[发出结算澄清](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5756005190)，等待原费用及付款日期的明确答复。实际到账仍为 0；见[本轮证据](evidence/sable-status-2026-09-21.json)。
+**SABLE 已停止跟进：历史约定 250 美元、技术交付已验收，没有到账证据。** 9 月 21 日发现原付款评论已在 9 月 19 日晚改为“历史／已被取代的贡献者付费模式”说明。保留[原验收摘要](evidence/sable-acceptance.json)与历史金额，不把改写视为原约定自动取消，也不再无条件表述为正在安排付款。此前曾发出结算澄清；随后用户要求停止跟进，已执行。实际到账仍为 0；见[本轮证据](evidence/sable-status-2026-09-21.json)。
 
 另已获用户批准并在 LaborX **公开发布 [120 USDC 的 CSV 自动化服务](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)**；刷新后平台状态为 Published。收款选项为 Base USDC，尚无客户或到账。具体范围见[服务文案](docs/laborx-csv-gig-draft.md)。
 
@@ -24,7 +26,7 @@
 | --- | --- |
 | 收入目标 | 累计实际到账至少 100 美元 |
 | 已核实到账 | **0 美元** |
-| 买方已确认的有偿委托 | 1 项历史委托：SABLE 已验收，历史费用 250 美元未收；当前结算需澄清 |
+| 买方已确认的有偿委托 | 1 项历史委托：SABLE 已验收，历史费用 250 美元未收；按用户要求停止跟进 |
 | 真实平台交付尝试 | BountyBook 同一个 5 USDC 任务，4 次提交、4 次拒绝 |
 | 已发出的资格询问 | GitHub 1 条，等待维护者回复 |
 | LaborX 250 美元等值申请 | 已成功提交并在 My Jobs 核实；待买方回复，未成交 |
@@ -32,11 +34,11 @@
 | 新增直接支付支出 | 0；现有订阅及模型消耗未计价 |
 | 是否完全无人介入 | 否，用户设置钱包、登录账户并确认具体对外申请 |
 
-另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在。19:53 新增 [50 美元 SQLite API 条件申请](docs/sqlite-api-application.md)，同样先确认旧需求和托管付款；当前 LaborX 共 4 份已核实提交的申请，均未确认成交。
+另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在。19:53 新增 [50 美元 SQLite API 条件申请](docs/sqlite-api-application.md)，同样先确认旧需求和托管付款；当时 LaborX 共 4 份已核实提交的申请，均未确认成交。
 
 历史过程：SABLE 曾确认 250 美元验收后付款并完成分配、交付和验收。原评论随后被修改，当前结算状态见上方更正。详见[申请与后续](docs/sable-verification-application.md)。
 
-最新筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。此筛选发生在 SABLE 确认回复被检查之前。
+此前筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。此筛选发生在 SABLE 确认回复被检查之前。
 
 验收后的[候选筛选](evidence/post-acceptance-screening.json)未新增可执行订单；到账和应收金额未变化。
 

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:53:53+08:00",
+  "updated_at": "2026-09-21T14:05:27+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -64,16 +64,57 @@
       "last_check_result": "Authenticated chat contains only our proposal and offer, with the wait-for-customer-response notice; no buyer reply or acceptance."
     },
     {
+      "id": "laborx-sqlite-103220",
+      "kind": "application",
+      "source_url": "https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220",
+      "recipient": "Aimen ,.",
+      "status": "submitted_awaiting_buyer_reply",
+      "amount_usd_proposed": 50,
+      "delivery_days_proposed": 1,
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
+      "waiting_for": "Whether the June listing is still available; schema/local-use scope, AI eligibility, payment rail and LaborX escrow funding",
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Authenticated chat contains only our proposal and offer, with the wait-for-customer-response notice; no buyer reply or acceptance."
+    },
+    {
+      "id": "tenstorrent-cpu-bounty-inquiry",
+      "kind": "eligibility_and_scope_inquiry",
+      "source_url": "https://docs.tenstorrent.com/bounty_terms.html",
+      "recipient": "Tenstorrent official bounty program",
+      "status": "sent_awaiting_program_reply",
+      "amount_usd_proposed": null,
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
+      "waiting_for": "An unassigned funded CPU-only task; AI eligibility, human review, approved fee, acceptance and payout conditions",
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Read original Gmail thread: one message labeled SENT, no reply. Search for program-domain incoming mail since September 19 returned no results."
+    },
+    {
+      "id": "laborx-ai-project-103750",
+      "kind": "application",
+      "source_url": "https://laborx.com/jobs/ai-project-partner-103750",
+      "recipient": "joe guru",
+      "status": "submitted_awaiting_buyer_reply",
+      "amount_usd_proposed": 150,
+      "delivery_days_proposed": 3,
+      "last_verified_at": "2026-09-21T14:05:27+08:00",
+      "waiting_for": "Confirmation July listing remains available, one concrete defect, sample/code, AI eligibility, acceptance criteria, payment token/network and funded LaborX escrow",
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "After Send, My Jobs showed the complete submitted proposal, Budget $150, Deadline 3 days.",
+      "latest_evidence": "evidence/laborx-ai-project-pilot-2026-09-21.json"
+    }
+  ],
+  "inactive_items": [
+    {
       "id": "sable-verification-54",
       "kind": "paid_scope_application",
       "source_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
       "recipient": "socksninja",
-      "status": "settlement_clarification_sent_awaiting_reply",
+      "status": "followup_stopped_by_user",
       "amount_usd_proposed": 250,
       "delivery_hours_after_confirmation": 48,
       "last_verified_at": "2026-09-21T13:40:15+08:00",
-      "waiting_for": "Buyer clarification of the original USD250 accepted-scope fee and expected payment date; independently verified receipt",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "waiting_for": null,
+      "next_check_trigger": "Only an explicit future user instruction to reopen SABLE",
       "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
       "buyer_confirmed_usd": 250,
       "payout_rail": "PayPal",
@@ -105,32 +146,10 @@
       "settlement_clarification_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5756005190",
       "settlement_clarification_sent_at": "2026-09-21T05:53:18Z",
       "outbound_comment_readback_verified": true,
-      "last_outbound_action_at": "2026-09-21T13:53:53+08:00"
-    },
-    {
-      "id": "laborx-sqlite-103220",
-      "kind": "application",
-      "source_url": "https://laborx.com/jobs/simple-server-to-serve-as-access-for-my-sqlite-database-103220",
-      "recipient": "Aimen ,.",
-      "status": "submitted_awaiting_buyer_reply",
-      "amount_usd_proposed": 50,
-      "delivery_days_proposed": 1,
-      "last_verified_at": "2026-09-21T13:40:15+08:00",
-      "waiting_for": "Whether the June listing is still available; schema/local-use scope, AI eligibility, payment rail and LaborX escrow funding",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "Authenticated chat contains only our proposal and offer, with the wait-for-customer-response notice; no buyer reply or acceptance."
-    },
-    {
-      "id": "tenstorrent-cpu-bounty-inquiry",
-      "kind": "eligibility_and_scope_inquiry",
-      "source_url": "https://docs.tenstorrent.com/bounty_terms.html",
-      "recipient": "Tenstorrent official bounty program",
-      "status": "sent_awaiting_program_reply",
-      "amount_usd_proposed": null,
-      "last_verified_at": "2026-09-21T13:40:15+08:00",
-      "waiting_for": "An unassigned funded CPU-only task; AI eligibility, human review, approved fee, acceptance and payout conditions",
-      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "Read original Gmail thread: one message labeled SENT, no reply. Search for program-domain incoming mail since September 19 returned no results."
+      "last_outbound_action_at": "2026-09-21T13:53:53+08:00",
+      "do_not_contact": true,
+      "followup_stopped_at": "2026-09-21T14:02:50+08:00",
+      "closure_reason": "User requested no further contact and pursuit of other opportunities; historical delivery and unpaid amount retained."
     }
   ]
 }
