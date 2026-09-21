@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-09-21T13:40:15+08:00",
+  "method": "GitHub REST API issue and paginated comments, including direct reads of key comment IDs",
+  "issue_url": "https://github.com/socksninja/sable-agent-reliability/issues/54",
+  "issue_state": "open",
+  "historical_acceptance_evidence": "sable-acceptance.json",
+  "historical_fee_usd": 250,
+  "verified_receipts_usd": 0,
+  "current_settlement_status": "unclear_after_public_comment_edits",
+  "comments": [
+    {
+      "id": 5740699385,
+      "url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
+      "created_at": "2026-09-19T09:14:01Z",
+      "updated_at": "2026-09-19T11:25:06Z",
+      "current_summary": "Earlier contributor-funded pilot is described as superseded; current business model is customer-paid verification."
+    },
+    {
+      "id": 5740835884,
+      "url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884",
+      "created_at": "2026-09-19T09:44:02Z",
+      "updated_at": "2026-09-19T11:25:12Z",
+      "current_summary": "Acknowledges historical submission acceptance; says the model is superseded and does not advertise a new contributor payout."
+    },
+    {
+      "id": 5740875877,
+      "url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740875877",
+      "created_at": "2026-09-19T09:53:02Z",
+      "updated_at": "2026-09-19T11:25:15Z",
+      "current_summary": "Private settlement instructions replaced with a historical pilot/model notice."
+    },
+    {
+      "id": 5741369194,
+      "url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741369194",
+      "created_at": "2026-09-19T11:15:14Z",
+      "updated_at": "2026-09-19T11:25:22Z",
+      "current_summary": "Prior payment-direction and USD250-payable wording replaced with a historical-model correction; says not to read the comment as a current payout offer."
+    }
+  ],
+  "limits": [
+    "These are edits to September 19 comments, not new September 21 replies.",
+    "Comment author is not proof of editor identity.",
+    "Retain the prior observed agreement and acceptance; edits alone do not establish cancellation or payment.",
+    "No PayPal account readback or transfer evidence in this check.",
+    "Private receiving details and full email headers are excluded."
+  ]
+}

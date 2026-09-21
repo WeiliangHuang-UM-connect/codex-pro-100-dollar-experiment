@@ -2,11 +2,11 @@
 
 一份持续更新的真实实验记录：让 AI 自主寻找工作、完成交付，并尝试收到至少 100 美元。
 
-**截至 2026-09-19，已核实到账：0 美元。目标未完成。**
+**截至 2026-09-21，已核实到账：0 美元。目标未完成。**
 
-20:21 状态：目标暂时受阻。Upwork 登录/浏览器入口尚不可操作，已有接洽等待实际回复；申请草稿、等待清单和已验收成果均已保存。恢复登录或收到回复后继续。
+9 月 21 日复查：[等待清单](docs/waiting-list.md)共 8 项。四份 LaborX 申请、CSV 服务、Ubiquity 和 Tenstorrent 均未见新回复或订单；LaborX 浏览器本轮已恢复。
 
-最新进展：**SABLE 技术交付已获[买方明确验收](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884)，250 美元固定费用现已应付。** 记为应收未收，实际到账仍为 0。买方已确认尚未发起付款或付款请求；已在原私下邮件线程再次明确 PayPal 收款邮箱，等待实际转账。详见[交付报告](deliverables/sable-001/REPORT.md)和[验收证据](evidence/sable-acceptance.json)。
+**SABLE 状态更正：历史约定 250 美元、技术交付已验收，但当前结算需澄清。** 9 月 21 日发现原付款评论已在 9 月 19 日晚改为“历史／已被取代的贡献者付费模式”说明。保留[原验收摘要](evidence/sable-acceptance.json)与历史金额，不把改写视为原约定自动取消，也不再无条件表述为正在安排付款。实际到账仍为 0；见[本轮证据](evidence/sable-status-2026-09-21.json)。
 
 另已获用户批准并在 LaborX **公开发布 [120 USDC 的 CSV 自动化服务](https://laborx.com/gigs/i-will-clean-merge-and-validate-csv-files-with-a-python-script-122168)**；刷新后平台状态为 Published。收款选项为 Base USDC，尚无客户或到账。具体范围见[服务文案](docs/laborx-csv-gig-draft.md)。
 
@@ -20,7 +20,7 @@
 | --- | --- |
 | 收入目标 | 累计实际到账至少 100 美元 |
 | 已核实到账 | **0 美元** |
-| 买方已确认的有偿委托 | 1：SABLE 已验收，250 美元应收未收；PayPal 收款资料已私下发送 |
+| 买方已确认的有偿委托 | 1 项历史委托：SABLE 已验收，历史费用 250 美元未收；当前结算需澄清 |
 | 真实平台交付尝试 | BountyBook 同一个 5 USDC 任务，4 次提交、4 次拒绝 |
 | 已发出的资格询问 | GitHub 1 条，等待维护者回复 |
 | LaborX 250 美元等值申请 | 已成功提交并在 My Jobs 核实；待买方回复，未成交 |
@@ -30,13 +30,13 @@
 
 另已自动提交 [300 美元 Python 脚本修复申请](docs/coingecko-reliability-application.md)，明确先核实过期需求是否仍存在。19:53 新增 [50 美元 SQLite API 条件申请](docs/sqlite-api-application.md)，同样先确认旧需求和托管付款；当前 LaborX 共 4 份已核实提交的申请，均未确认成交。
 
-最新进展：[SABLE 维护者已确认](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385) **250 美元验收后付款**并分配任务，允许 AI/Codex 辅助，48 小时交付目标。指定 PayPal，用户收款资料已私下发送；现已明确验收，250 美元应付但尚未到账。详见[申请与后续](docs/sable-verification-application.md)。
+历史过程：SABLE 曾确认 250 美元验收后付款并完成分配、交付和验收。原评论随后被修改，当前结算状态见上方更正。详见[申请与后续](docs/sable-verification-application.md)。
 
 最新筛选未增加申请：ArcNS 仅限人类任务、qtop 身份及现场验证要求等已记录在[尝试清单](docs/attempts.md)。此筛选发生在 SABLE 确认回复被检查之前。
 
 验收后的[候选筛选](evidence/post-acceptance-screening.json)未新增可执行订单；到账和应收金额未变化。
 
-待回复事项集中在[等待清单](docs/waiting-list.md)。 9 月 19 日 19:35 按用户要求复查其余五项，均无新回复或订单；本轮未查询 SABLE。提交后继续寻找其他机会，收到查询或实际回复通知时再检查。
+待回复事项集中在[等待清单](docs/waiting-list.md)。最新核查为 9 月 21 日；查询范围、原记录与更正均已保留。收到用户查询或实际回复通知时再检查。
 
 新增：[GitHub 悬赏与别人用 AI 做业务的核查](docs/github-bounties-ai-income-research.md)，包含可核查依据、账户门槛和适用路线。
 

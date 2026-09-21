@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T20:14:59+08:00",
+  "updated_at": "2026-09-21T13:40:15+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -10,10 +10,10 @@
       "status": "awaiting_buyer_reply",
       "amount_usd_proposed": 250,
       "delivery_days_proposed": 15,
-      "last_verified_at": "2026-09-19T19:35:03+08:00",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
       "waiting_for": "Buyer reply, source materials, rights confirmation, agreed scope and escrow funding",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "Chat contains only our proposal and offer; no buyer reply or acceptance."
+      "last_check_result": "Authenticated chat contains only our proposal and offer, with the wait-for-customer-response notice; no buyer reply or acceptance."
     },
     {
       "id": "laborx-data-102259",
@@ -23,17 +23,17 @@
       "status": "submitted_awaiting_buyer_reply",
       "amount_usd_proposed": 150,
       "delivery_days_proposed": 3,
-      "last_verified_at": "2026-09-19T19:35:03+08:00",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
       "waiting_for": "Confirmation old need remains, acceptance of separate pilot, input sample, schema, acceptance criteria and escrow funding",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "Chat contains only our proposal and offer; no buyer reply or acceptance."
+      "last_check_result": "Authenticated chat contains only our proposal and offer, with the wait-for-customer-response notice; no buyer reply or acceptance."
     },
     {
       "id": "ubiquity-eligibility-135",
       "kind": "eligibility_inquiry",
       "source_url": "https://github.com/ubiquity-os-marketplace/daemon-disqualifier/issues/135#issuecomment-5740218566",
       "status": "awaiting_maintainer_reply",
-      "last_verified_at": "2026-09-19T19:35:03+08:00",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
       "waiting_for": "Eligibility and paid assignment authorization",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
       "last_check_result": "Issue open, unassigned; latest comment remains our eligibility inquiry; no maintainer reply."
@@ -45,10 +45,10 @@
       "status": "published_no_buyer_confirmed",
       "amount_usd_proposed": 120,
       "delivery_days_proposed": 3,
-      "last_verified_at": "2026-09-19T19:35:03+08:00",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
       "waiting_for": "Buyer inquiry and agreed funded scope",
       "next_check_trigger": "User asks to check waiting items or an actual inquiry notification arrives",
-      "last_check_result": "Posted and Visible at120; Offers and In Progress empty; no gig inquiry in current chats."
+      "last_check_result": "Posted service is Visible at 120, with 5 views. Offers and In Progress show no content; current chat list has no service inquiry."
     },
     {
       "id": "laborx-coingecko-96610",
@@ -58,21 +58,21 @@
       "status": "submitted_awaiting_buyer_reply",
       "amount_usd_proposed": 300,
       "delivery_days_proposed": 5,
-      "last_verified_at": "2026-09-19T19:35:03+08:00",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
       "waiting_for": "Whether old task remains available; redacted code, plan, expected output, acceptance scope and escrow",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "Chat contains only our proposal and offer; no buyer reply or acceptance."
+      "last_check_result": "Authenticated chat contains only our proposal and offer, with the wait-for-customer-response notice; no buyer reply or acceptance."
     },
     {
       "id": "sable-verification-54",
       "kind": "paid_scope_application",
       "source_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
       "recipient": "socksninja",
-      "status": "accepted_paypal_destination_reconfirmed_awaiting_payment",
+      "status": "historically_accepted_unpaid_current_settlement_unclear",
       "amount_usd_proposed": 250,
       "delivery_hours_after_confirmation": 48,
-      "last_verified_at": "2026-09-19T19:18:00+08:00",
-      "waiting_for": "Buyer sends USD250 to privately reconfirmed PayPal destination; independently verified receipt",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
+      "waiting_for": "Clarification of settlement for the already accepted historical SABLE-001 scope; independently verified receipt",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
       "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
       "buyer_confirmed_usd": 250,
@@ -85,7 +85,6 @@
       "payout_revision_inquiry_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740746506",
       "acceptance_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884",
       "accepted_at": "2026-09-19T09:44:02Z",
-      "amount_due_usd": 250,
       "private_channel_inquiry_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740864544",
       "private_contact_provided_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740875877",
       "paypal_details_sent": true,
@@ -97,7 +96,12 @@
       "buyer_says_payment_initiated": false,
       "buyer_says_money_request_initiated": false,
       "paypal_destination_reconfirmed_at": "2026-09-19T11:17:38Z",
-      "destination_reconfirmation_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741386298"
+      "destination_reconfirmation_notice_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5741386298",
+      "historical_amount_due_usd": 250,
+      "current_reconfirmed_payable_usd": null,
+      "amount_interpretation": "USD 250 is the historically confirmed unpaid fee, not a newly reconfirmed current payment promise. No inference that the historical agreement was cancelled.",
+      "last_check_result": "Key confirmation, acceptance and settlement comments were edited on September 19 to historical/superseded model notices. Acceptance remains acknowledged; prior explicit USD250 due/payment wording is absent. No new private reply found; no receipt evidence.",
+      "latest_evidence": "evidence/sable-status-2026-09-21.json"
     },
     {
       "id": "laborx-sqlite-103220",
@@ -107,10 +111,10 @@
       "status": "submitted_awaiting_buyer_reply",
       "amount_usd_proposed": 50,
       "delivery_days_proposed": 1,
-      "last_verified_at": "2026-09-19T19:53:50+08:00",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
       "waiting_for": "Whether the June listing is still available; schema/local-use scope, AI eligibility, payment rail and LaborX escrow funding",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "My Jobs shows the complete submitted conditional proposal, Budget $50 and Deadline 1 day. No acceptance or funding established."
+      "last_check_result": "Authenticated chat contains only our proposal and offer, with the wait-for-customer-response notice; no buyer reply or acceptance."
     },
     {
       "id": "tenstorrent-cpu-bounty-inquiry",
@@ -119,10 +123,10 @@
       "recipient": "Tenstorrent official bounty program",
       "status": "sent_awaiting_program_reply",
       "amount_usd_proposed": null,
-      "last_verified_at": "2026-09-19T20:14:59+08:00",
+      "last_verified_at": "2026-09-21T13:40:15+08:00",
       "waiting_for": "An unassigned funded CPU-only task; AI eligibility, human review, approved fee, acceptance and payout conditions",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "Gmail message readback confirmed official recipient, subject, body and SENT label; no reply check performed."
+      "last_check_result": "Read original Gmail thread: one message labeled SENT, no reply. Search for program-domain incoming mail since September 19 returned no results."
     }
   ]
 }
