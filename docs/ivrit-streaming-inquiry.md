@@ -18,3 +18,8 @@ The proposed scope is a reproducible CPU probe of repeated transcribe() calls ov
 ## 下一步条件
 
 维护者确认任务、资格与支付方式后再锁定范围和实现。评审若需要用户本人讲解或现场参与，再明确告知所需协助；不虚构已经具备人工评审承诺。不重复催问，收到实际通知或用户查询后再检查。
+
+
+## 2026-09-21 新通知评估
+
+本轮定位到的GitHub新通知对应[spike-token的留言](https://github.com/ivrit-ai/ivrit-py/issues/12#issuecomment-5756227832)：另一位投稿者提交了[草稿PR #31](https://github.com/ivrit-ai/ivrit-py/pull/31)。该PR尚未合并且没有评审，Issue未分配。没有维护者给本账号的锁定或付款确认，继续等待。不能把竞争投稿当成接单成功，也不能据此认定诈骗。[核查摘要](../evidence/ivrit-reply-assessment-2026-09-21.json)。

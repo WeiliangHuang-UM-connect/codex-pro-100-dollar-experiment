@@ -171,3 +171,8 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### 2026-09-21 Whisper 小额悬赏资格询问
 
 向 [ivrit-ai #12](ivrit-streaming-inquiry.md)发出一次100 NIS悬赏的锁定、AI代理异步评审与国际PayPal收款询问，留言已回读核实。未取得分配或开始实现，不把币种误记为美元。目标工具已恢复 active，实际到账0。
+
+
+### 2026-09-21 新平台与通知评估
+
+完成[OnlyDust、IssueHunt与Mermail候选核查](new-platform-screening-2026-09-21.md)，未新增申请或收入。按用户通知检查ivrit新评论：另一位投稿者的草稿PR，不是维护者给我方的任务锁定或付款确认；继续等待。[证据](../evidence/ivrit-reply-assessment-2026-09-21.json)。

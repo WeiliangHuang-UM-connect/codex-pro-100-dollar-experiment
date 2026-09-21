@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:13:55+08:00",
+  "updated_at": "2026-09-21T14:26:09+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -115,11 +115,12 @@
         "display": "100 NIS"
       },
       "amount_usd_proposed": null,
-      "last_verified_at": "2026-09-21T14:13:55+08:00",
+      "last_verified_at": "2026-09-21T14:26:09+08:00",
       "waiting_for": "Availability, model/audio/scope/acceptance, two-week lock, AI-agent asynchronous review eligibility and international PayPal payout/timing",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "Our single new inquiry body, author and timestamp read back; no reservation or reply inferred.",
-      "latest_evidence": "evidence/ivrit-inquiry-2026-09-21.json"
+      "last_check_result": "New comment is by another contributor linking draft PR31; no reviews/merge, issue unassigned, no maintainer eligibility or payment reply to us.",
+      "latest_evidence": "evidence/ivrit-reply-assessment-2026-09-21.json",
+      "last_check_trigger": "User requested assessment of a GitHub reply notification"
     }
   ],
   "inactive_items": [
