@@ -300,3 +300,16 @@ SABLE 私下结算邮箱检索未发现 9 月 19 日以来的新回复，未读�
 点击发送后页面跳转 My Jobs，新申请以完整文案、Budget $150、Deadline 3 days 显示，发送已核实。没有进入合同、付款或开发阶段。见[完整申请](ai-project-pilot-application.md)和[脱敏提交证据](../evidence/laborx-ai-project-pilot-2026-09-21.json)。LaborX 已发申请累计 5 份，具体付费范围申请累计 6 份（包括历史 SABLE）；主动等待 8 项、停止跟进历史项 1 项，实际到账仍为 0。
 
 并行只读筛选的新 GitHub 候选没有可直接执行的受资助任务：Claude Builders #4 虽列 150 美元但没有核实付款保障；FinMind 已归档；ZIO 本仓 250 美元标签无开放任务；Algora 的 Turso/Golem 活动已结束。详情见[筛选补充](github-screening-2026-09-21.md#转向其他机会后的新候选)。未联系或检查 SABLE。
+
+
+### 2026-09-21T14:13:55+08:00 — 继续执行：Whisper 小额悬赏资格询问
+
+上轮已发送并核实 Joe 的技术试单，属于实际进展。本轮目标工具返回 active，恢复后按新一轮审计处理，未将历史 blocked 继续当作当前工具状态。检查工作区干净，继续新机会筛选，没有主动查询 SABLE。
+
+并行核查 [ivrit-ai/ivrit-py #12](https://github.com/ivrit-ai/ivrit-py/issues/12)：悬赏是 100 NIS，不是 100 美元，仍开放且无人分配。[官方规则](https://github.com/ivrit-ai/ivrit-py#bounty-rules)允许 AI，但要求解释实现，评审可能现场进行；先讨论范围并锁定两周，以合并 PR 为验收支付条件。最新维护者提交为 7 月 27 日，未核实当前预算可兑现性、支付渠道或国际资格；已有其他申请并不等于我方获派。小额真实到账可计入累计目标，因此发出一次简短资格询问：任务是否仍可锁定、海外 PayPal 收款和完全异步的 AI 代理书面评审是否可接受。提议 CPU 小规模的重复转录/重叠窗口置信度分析，模型、音频和验收先确认。未预先执行或占用名额。
+
+[留言已发送](https://github.com/ivrit-ai/ivrit-py/issues/12#issuecomment-5756155596)；随后只回读该条评论核对本账号、完整正文和 2026-09-21T06:12:47Z 时间，不轮询新回复。见[接洽记录](ivrit-streaming-inquiry.md)。现有具体范围申请仍为 6 份，资格/范围询问累计 3 份，主动等待共 9 项。费用保留原币种 100 NIS，没有美元换算或收入登记。
+
+浏览 LaborX 新候选时页面出现“2 unread messages”提示，因此打开通知对应的 Joe 单一会话。两条消息均标为 You（己方提案与报价），页面仍提示等待客户回复；不是买方新答复。仅为核实实际通知，没有复查其他等待项。另读取标价 650 美元的物流标签应用需求，原截止日为 2025-12-18；包含充值余额、支付回调、下单与并发扣款，当前需求及安全边界未确认，未发送整站承诺或预先开发。
+
+[GOATNetwork #457](https://github.com/GOATNetwork/bitvm-node/issues/457)只有 Bounty Migrated 标题、无正文预算/验收，不能当作可申领悬赏。对 BoundaryML/BAML 与 Rybbit 的两组公开搜索未找到明确付费候选，没有将普通缺陷 issue 当作订单。已核实到账及新增直接支出均为 0；目标保持 active。

@@ -4,11 +4,13 @@
 
 **截至 2026-09-21，已核实到账：0 美元。目标未完成。**
 
-**当前方向：按用户要求停止 SABLE 跟进，寻找其他机会。** 技术交付与历史验收保留，但不再为其投入催问或检查。目标工具仍显示此前的受阻状态；本轮按新指示继续筛选。Upwork 暂不能登录。
+**当前方向：按用户要求停止 SABLE 跟进，寻找其他机会。** 技术交付与历史验收保留，但不再为其投入催问或检查。目标工具已恢复 active，继续筛选与申请。Upwork 暂不能登录。
 
 **最新进展：已向 LaborX 的 AI 项目买方发送 [150 美元/3 天技术试单申请](docs/ai-project-pilot-application.md)，并在 My Jobs 核实全文及报价。** 提案仅复现和修复一个约定的 Python 缺陷，先确认旧需求仍有效、范围和托管资金。目前 LaborX 累计 5 份已发申请，尚未确认新成交。
 
-9 月 21 日复查：[等待清单](docs/waiting-list.md)当时共 8 项；停止 SABLE 跟进后为 7 项，后新增 Joe 试单申请，当前共 8 项。四份 LaborX 申请、CSV 服务、Ubiquity 和 Tenstorrent 均未见新回复或订单；LaborX 浏览器本轮已恢复。
+最新接洽：[ivrit-ai Whisper 流式分析](docs/ivrit-streaming-inquiry.md)题面奖励 100 NIS，已发资格/付款询问并核实。尚待确认锁定、异步评审和国际收款，未开始开发；金额未折算为美元或收入。
+
+9 月 21 日复查：[等待清单](docs/waiting-list.md)当时共 8 项；停止 SABLE 跟进后为 7 项，后新增 Joe 试单申请，后续又新增 ivrit 资格询问，当前共 9 项。四份 LaborX 申请、CSV 服务、Ubiquity 和 Tenstorrent 均未见新回复或订单；LaborX 浏览器本轮已恢复。
 
 9 月 21 日后续：[GitHub 悬赏筛选](docs/github-screening-2026-09-21.md)已更新。用户暂时无法登录 Upwork，继续 GitHub 路线；新增核查 AsyncAPI、Mudlet、qmrkt 等仍未取得可执行委托，未新增申请或收入。
 

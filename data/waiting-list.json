@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:05:27+08:00",
+  "updated_at": "2026-09-21T14:13:55+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -96,11 +96,30 @@
       "status": "submitted_awaiting_buyer_reply",
       "amount_usd_proposed": 150,
       "delivery_days_proposed": 3,
-      "last_verified_at": "2026-09-21T14:05:27+08:00",
+      "last_verified_at": "2026-09-21T14:13:55+08:00",
       "waiting_for": "Confirmation July listing remains available, one concrete defect, sample/code, AI eligibility, acceptance criteria, payment token/network and funded LaborX escrow",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
-      "last_check_result": "After Send, My Jobs showed the complete submitted proposal, Budget $150, Deadline 3 days.",
-      "latest_evidence": "evidence/laborx-ai-project-pilot-2026-09-21.json"
+      "last_check_result": "Notification mapped to our own proposal and offer, both labeled You. Thread still says customer must respond before discussion. No buyer response or funding confirmed.",
+      "latest_evidence": "evidence/laborx-ai-project-pilot-2026-09-21.json",
+      "last_check_trigger": "New visible title notification of 2 unread messages"
+    },
+    {
+      "id": "ivrit-streaming-12",
+      "kind": "eligibility_and_scope_inquiry",
+      "source_url": "https://github.com/ivrit-ai/ivrit-py/issues/12#issuecomment-5756155596",
+      "recipient": "ivrit-ai/ivrit-py maintainer yairl",
+      "status": "sent_awaiting_maintainer_reply",
+      "listed_reward": {
+        "amount": 100,
+        "currency": "ILS",
+        "display": "100 NIS"
+      },
+      "amount_usd_proposed": null,
+      "last_verified_at": "2026-09-21T14:13:55+08:00",
+      "waiting_for": "Availability, model/audio/scope/acceptance, two-week lock, AI-agent asynchronous review eligibility and international PayPal payout/timing",
+      "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
+      "last_check_result": "Our single new inquiry body, author and timestamp read back; no reservation or reply inferred.",
+      "latest_evidence": "evidence/ivrit-inquiry-2026-09-21.json"
     }
   ],
   "inactive_items": [

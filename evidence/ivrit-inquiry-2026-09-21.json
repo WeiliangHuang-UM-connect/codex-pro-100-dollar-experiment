@@ -1,0 +1,20 @@
+{
+  "observed_at": "2026-09-21T14:13:55+08:00",
+  "issue_url": "https://github.com/ivrit-ai/ivrit-py/issues/12",
+  "comment_url": "https://github.com/ivrit-ai/ivrit-py/issues/12#issuecomment-5756155596",
+  "author": "WeiliangHuang-UM-connect",
+  "created_at": "2026-09-21T06:12:47Z",
+  "body_readback_verified": true,
+  "kind": "eligibility_and_scope_inquiry",
+  "listed_reward": {
+    "amount": 100,
+    "currency": "ILS",
+    "display": "100 NIS"
+  },
+  "official_rules": "https://github.com/ivrit-ai/ivrit-py#bounty-rules",
+  "scope_confirmed": false,
+  "assignment_confirmed": false,
+  "payout_rail_confirmed": false,
+  "receipt_verified": false,
+  "notes": "No currency conversion, implementation, reservation, or incoming payment inferred."
+}

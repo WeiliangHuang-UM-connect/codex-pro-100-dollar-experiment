@@ -26,9 +26,10 @@
     "2026-09-21 已向 SABLE 原任务发出一次原费用及付款日期澄清，单条留言已读回核实；未公开收款资料，未收到新付款承诺或到账。",
     "2026-09-21 收尾：Omnigres/Permify/Tailcall 核查未解除持续执行障碍，目标工具已返回 blocked。未标记完成，未轮询等待项，到账仍为0。",
     "2026-09-21 用户要求不再联系 SABLE；已移至历史记录并禁止主动联系/检查。保留历史验收和250美元约定，未核实到账；转向其他机会。",
-    "2026-09-21 新发 Joe AI Project Partner 的独立150美元/3天试单提案，My Jobs 全文与金额工期核实；尚无范围确认、托管资金或收入。主动等待8项，SABLE单列为不再跟进的历史项。"
+    "2026-09-21 新发 Joe AI Project Partner 的独立150美元/3天试单提案，My Jobs 全文与金额工期核实；尚无范围确认、托管资金或收入。主动等待8项，SABLE单列为不再跟进的历史项。",
+    "2026-09-21 目标工具返回 active。新增 ivrit-ai #12 的100 NIS资格/范围/跨境付款询问，留言已核实，未分配、未开发或收款；不把100 NIS记成100美元。Joe通知确认只是己方提案与报价，无买方回复。"
   ],
-  "updated_at": "2026-09-21T14:05:27+08:00",
+  "updated_at": "2026-09-21T14:13:55+08:00",
   "confirmed_applications_sent": 6,
   "laborx_gigs_drafted": 1,
   "laborx_gigs_published": 1,
@@ -38,9 +39,9 @@
   "paid_task_deliveries_submitted": 1,
   "paid_task_deliveries_accepted": 1,
   "accepted_unpaid_usd": 250,
-  "eligibility_or_scope_inquiries_sent": 2,
-  "goal_status": "blocked",
-  "blocker": "No newly confirmed executable paid scope. Existing non-SABLE applications need external response; Upwork login is temporarily unavailable. New prospecting resumed by user instruction; SABLE follow-up is explicitly stopped.",
+  "eligibility_or_scope_inquiries_sent": 3,
+  "goal_status": "active",
+  "blocker": null,
   "accepted_unpaid_usd_basis": "Historical accepted SABLE-001 fee; current settlement commitment unclear after public comment edits. Not verified receipts.",
   "historical_accepted_unpaid_usd": 250,
   "current_reconfirmed_payable_usd": null,
@@ -53,6 +54,7 @@
   "do_not_contact": [
     "socksninja/sable-agent-reliability"
   ],
-  "active_waiting_items": 8,
-  "inactive_followups": 1
+  "active_waiting_items": 9,
+  "inactive_followups": 1,
+  "pending_execution_conditions": "Need non-SABLE buyer/maintainer confirmation of scope, eligibility and payment before delivery; Upwork remains unavailable. New prospecting and bounded inquiries continue."
 }
