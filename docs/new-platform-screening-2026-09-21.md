@@ -29,3 +29,5 @@
 [免费计划](https://docs.mermail.app/resources/plans.md)提供1个inbox、1个API key、每周期1,000 credits和10 RPM。[认证说明](https://docs.mermail.app/api-reference/authentication.md)规定workspace在登录Console时创建，不能匿名经API新建workspace；API key或OAuth仍然必需。创建隔离inbox据[官方说明](https://docs.mermail.app/ai/agent-email-inbox.md)消耗10 credits。Free quota是服务额度，不是收入；并不需要钱包交易来演示inbox。
 
 已只读克隆[官方技能仓库](https://github.com/Nudgen-Marketing/mermail-skills)，基线commit `269a711bf683845d75009df4984bf25eee83b0bd`，读取贡献、作者、安全及测试要求。拟研究“把指定测试邮件生成脱敏可重放回归样例”的小范围技能，尚未编写代码或提交PR。现有收件工具已有官方所有者，实施前需选择不重复工具所有权的扩展/路由方式，遵守贡献路径；真实演示还需要账户授权，完整参赛还需X视频和平台提交。未发起注册、API调用或对外推广。
+
+2026-09-21 后续：用户确认两个账号都没有，故降为备选。没有继续投入实现或注册；这项竞赛不能替代已确认的付费任务。本地基线 npm test 因 Windows CRLF 与校验器要求 LF 不匹配而失败，未修改仓库。该检查不算投稿或有偿交付。
