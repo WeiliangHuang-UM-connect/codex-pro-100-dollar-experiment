@@ -349,3 +349,13 @@ GitWork 官网明确暂停；DeskCrew 公开 API 只有一个标价1美元、获
 GitHub API 搜索发现 Mova Store、Lilly、Vista 和 MisakaNet 候选。Mova当前仅开放一条他人的结算申请，Lilly的结算请求同样不是新任务；两者均不能由求款文字推出实际支付。Vista未列明确现金金额且已有他人询问未获确认；MisakaNet #1942 的 Opire 机器人明确说明尚无奖励，#1945已有维护者实现。GrantFox官方奖励规则进一步说明合格贡献不保证获奖，需活动后评审；收款要求Stellar兼容钱包及USDC trustline，不将现有Base地址视为可用。
 
 详见[新增核查记录](new-platform-screening-2026-09-21.md#恢复后的新入口核查)。没有发申请、安装第三方软件、付款或实现这些候选。已核实到账0、主动等待9项；仍无新的可执行付费范围，本次恢复第一轮保持active。
+
+### 2026-09-21T14:44:00+08:00 — 第二轮：明确获奖者与停止接收 PR 的候选
+
+上一轮取得新的平台规则及候选排除证据，属于进展，但没有新增订单。本轮起初复查Open Bounty，读取本地记录后确认它早已被列为测试网；现行条款仍相同，这部分是重复核验而非新机会。停止该方向，改查新的GitHub具体悬赏。
+
+[KushBitx SDK #1](https://github.com/kushBitxHQ/kushbitx-sdk/issues/1#issuecomment-5752644135)确有50 USDC/Base且无需付费测试的方案，但维护者已指定mengxin10086为唯一获奖者、关闭新申请。Issue仍open是为了结算，不能再认领。Gyroflow Algora板仍有3个挂牌任务；#150维护者已明确要求不再新增PR，#742是完整跨数据库、UI和校准流程重构，不能把单一子项实现当作500美元验收。其他贡献者的Reward按钮或pending claim也不表示已付款。
+
+Highlight #8032仍有历史20美元文档奖励，但题面依赖未取得的Discord讨论，未核实当前验收或本人Algora收款资格；当前仓库树中的SvelteKit浏览器文档不证明后台文档任务已完成。不发缺少范围依据的申请，不预先开发。详见[本轮记录](github-screening-2026-09-21.md#第二轮新候选与停止接收规则)。
+
+本轮无对外申请、PR、直接支付或收入，没有复查9项等待或SABLE。恢复后第二轮仍缺少可执行付费范围，目标保持active，未达到再次标记blocked的三轮阈值。

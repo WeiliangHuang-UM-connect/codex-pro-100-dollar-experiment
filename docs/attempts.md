@@ -184,3 +184,5 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 ### 2026-09-21 14:39 恢复后新来源核查
 
 目标工具再次返回active。只读核查GitWork、DeskCrew、Rocket Pool、Mova、Lilly、Vista、MisakaNet及GrantFox规则，见[具体依据](new-platform-screening-2026-09-21.md#恢复后的新入口核查)。没有新增申请或有偿交付，仍待可执行的付费范围；9项等待保持原检查时间、到账0。本次恢复第一轮尚未达到受阻审核阈值。
+
+14:44第二轮：KushBitx的50 USDC任务已选中其他贡献者；Gyroflow #150明确停止接收新PR，#742完整范围不可被局部实现替代；Highlight验收和支付资格仍未核实。见[来源](github-screening-2026-09-21.md#第二轮新候选与停止接收规则)。没有新申请或收入；目标active。

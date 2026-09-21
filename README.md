@@ -8,6 +8,8 @@
 
 Mermail 已降为备选：用户没有 Mermail 和 X 账号，参赛还需真实演示和公开视频，合格投稿不保证获奖。未实现技能或投稿；见[筛选记录](docs/new-platform-screening-2026-09-21.md)。
 
+14:44补充：[KushBitx、Gyroflow、Highlight筛选](docs/github-screening-2026-09-21.md#第二轮新候选与停止接收规则)未产生新申请。KushBitx已选中他人，Gyroflow #150已要求不再新增PR；open状态和金额标签不能单独证明任务可认领。
+
 **最新进展：已向 LaborX 的 AI 项目买方发送 [150 美元/3 天技术试单申请](docs/ai-project-pilot-application.md)，并在 My Jobs 核实全文及报价。** 提案仅复现和修复一个约定的 Python 缺陷，先确认旧需求仍有效、范围和托管资金。目前 LaborX 累计 5 份已发申请，尚未确认新成交。
 
 最新接洽：[ivrit-ai Whisper 流式分析](docs/ivrit-streaming-inquiry.md)题面奖励 100 NIS，已发资格/付款询问并核实。尚待确认锁定、异步评审和国际收款，未开始开发；金额未折算为美元或收入。随后收到的GitHub通知只是另一投稿者的草稿PR，我方仍未获维护者分配。

@@ -73,3 +73,19 @@ Omi 源码观察：`backend/utils/cloud_tasks.py` blob `39188249e7b4efcf1bc6f6c8
 | [Algora Golem 活动](https://algora.io/challenges/golem) | [对应 #1004](https://github.com/golemcloud/golem/issues/1004)已关闭并标记 Rewarded，为 2024 年活动。 |
 
 Algora 通用旧 bounty 地址本轮返回 404，另一 app 地址在网页工具不可访问；未获得可核实的当前 funded/escrow 清单，不据此断言整个平台没有新任务。上述项目未发申请。同期在 LaborX 发送了[新的 150 美元条件试单申请](ai-project-pilot-application.md)，等待回复；申请不是资助承诺。
+
+## 第二轮新候选与停止接收规则
+
+2026-09-21 14:44（北京时间），没有新增申请或开发。
+
+| 候选 | 核实结论 |
+| --- | --- |
+| [KushBitx SDK #1](https://github.com/kushBitxHQ/kushbitx-sdk/issues/1#issuecomment-5752644135) | 50 USDC/Base、免费测试路径真实存在，但维护者已选中mengxin10086并关闭新申请；API assignees也为该账号。Issue保持open追踪尚未完成的付款，不能当作可认领任务。 |
+| [Gyroflow Algora板](https://algora.io/gyroflow/bounties?status=open) | 显示3个开放挂牌：#742为500美元、#45为500美元、#150为200美元。挂牌需结合GitHub维护者决定判断。 |
+| [Gyroflow #150](https://github.com/gyroflow/gyroflow/issues/150#issuecomment-5121095339) | 维护者2026-07-29明确要求不再新建PR。没有继续实现或申请。 |
+| [Gyroflow #742](https://github.com/gyroflow/gyroflow/issues/742#issuecomment-3697999621) | 维护者强调相机列表只是第一项，完整验收还包括兼容关系、选择器、LensFun、评审与校准等要求。已存在待审完整方向PR1154；PR1175关闭未合并。没有以局部脚本替代完整范围，未认领；不因他人参与断言奖励取消。 |
+| [Highlight #8032](https://github.com/highlight/highlight/issues/8032) | 历史20美元奖励、open且无人分配；原题依赖Discord讨论，当前验收不完整。仓库树只查到浏览器SvelteKit文档，不能推断后台文档已完成。没有获得本人Algora付款资格，也未发申请。 |
+
+Algora付款文档仍无法通过本轮网页请求取得，未根据其它支付公司的国家列表推断支持澳门。Gyroflow第三方pending claim页面中的Total paid 0仅描述对应申领，不能泛化整个项目没有付款。未联系这些维护者、发PR或下载视频。
+
+Open Bounty本轮被重复检查；[现行条款](https://openbounty.app/terms)仍说明测试网USDC没有货币价值，与旧记录一致。未注册、签名或执行测试网任务。
