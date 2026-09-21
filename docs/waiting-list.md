@@ -4,7 +4,7 @@
 
 | 项目 | 本轮核实状态 | 等待事项 |
 | --- | --- | --- |
-| [SABLE：独立验证](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884) | 历史约定 $250，已验收未到账；原付款评论被修改 | 澄清既有费用结算，取得实际到账证据 |
+| [SABLE：独立验证](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740835884) | 历史约定 $250，已验收未到账；9 月 21 日已发结算澄清 | 等买方明确原费用与付款日期；取得到账证据 |
 | [Ubiquity：资格询问](https://github.com/ubiquity-os-marketplace/daemon-disqualifier/issues/135#issuecomment-5740218566) | 无新回复，开放但未分配 | 外部贡献者资格与正式分配 |
 | [Tenstorrent：CPU 任务询问](tenstorrent-inquiry.md) | 原邮件线程只有己方 SENT 消息，无回复 | 具体任务、预算、AI 资格及付款条件 |
 | [Jack：视频剪辑](https://laborx.com/jobs/video-biography-edit-104737) | $250 / 15 天；聊天只有己方提案与报价 | 买方回复、素材、范围与托管资金 |
@@ -18,3 +18,5 @@
 其余金额是报价，不是获批预算或收入。**已核实到账仍为 0 美元。** Upwork CSV→Airtable 申请尚未发送，不计入本清单。
 
 结构化状态见 [waiting-list.json](../data/waiting-list.json)，此前核查过程保留在[日志](journal.md)及 Git 历史。仅在用户询问或收到实际回复通知后再检查，不自动轮询。
+
+本日后续：[SABLE 结算澄清留言](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5756005190)已发出并读回核实，只询问原约定费用和预计付款时间，未公开收款详情。未复查其他等待项，原核查时间保留。

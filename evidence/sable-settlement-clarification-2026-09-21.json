@@ -1,0 +1,16 @@
+{
+  "sent_at": "2026-09-21T05:53:18Z",
+  "verified_at": "2026-09-21T13:53:53+08:00",
+  "comment_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5756005190",
+  "author": "WeiliangHuang-UM-connect",
+  "body_matches_saved_draft": true,
+  "purpose": "Clarify whether the original accepted SABLE-001 USD250 fee remains payable and its expected payment date after public settlement-comment edits",
+  "historical_evidence": [
+    "sable-acceptance.json",
+    "sable-status-2026-09-21.json",
+    "sable-settlement-notice.json"
+  ],
+  "receiving_details_published": false,
+  "new_agreement_or_payment_confirmed": false,
+  "verified_receipts_usd": 0
+}

@@ -30,3 +30,13 @@ Omi 源码观察：`backend/utils/cloud_tasks.py` blob `39188249e7b4efcf1bc6f6c8
 - [maxstern.org /book 旧 gist](https://gist.github.com/Mxcks/f0dcbf6ac8a7c3f5c0195d704b9458ac)：索引出现 $150–200，实时 gist 及评论 API 均为 404，预算、分配和付款状态不可核验。不据摘要开发或发送申请。
 
 本轮没有新申请或交付。尚无已获分配、可直接开发的新付费范围；现有申请需要外部回复。到账仍为 0。
+
+
+## Archestra 定向核查
+
+通过[官方贡献文档](https://archestra.ai/docs/contributing)确认仓库，再以 GitHub API 读取两条第三方列表线索：
+
+- [#3556 Notion connector](https://github.com/archestra-ai/archestra/issues/3556)：维护者曾出价 $100，当前已关闭、分配给他人且带 Rewarded 标签；[PR #3555](https://github.com/archestra-ai/archestra/pull/3555)已合并。不当作仍开放任务。
+- [#3378 Schedule triggers](https://github.com/archestra-ai/archestra/issues/3378)：维护者曾出价 $500，当前已关闭且正文指定贡献者；原 [PR #3432](https://github.com/archestra-ai/archestra/pull/3432)已关闭未合并。不据此推断任务重新开放。
+
+官方贡献规则要求先完成 onboarding，允许 AI 辅助但需审查和测试，禁止对已经分配的悬赏提交竞争 PR 或 attempt。本轮无申请。

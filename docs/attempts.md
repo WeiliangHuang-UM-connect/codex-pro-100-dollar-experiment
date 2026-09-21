@@ -150,3 +150,6 @@ LaborX 申请范围：约 8 分钟视频、250 美元等值、素材和需求确
 
 
 本日后续又核查 AsyncAPI、Mudlet、qmrkt 和旧 /book 委托；未找到当前可认领范围。具体分配、关闭或无法访问证据见[筛选附录](github-screening-2026-09-21.md#新增渠道复核)。未新增申请或收入。
+
+
+本日后续：向已验收的 SABLE 原委托发出[结算澄清](https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5756005190)，请求明确原 250 美元费用和付款日期。发布与正文已核实；未收到新承诺或到账。

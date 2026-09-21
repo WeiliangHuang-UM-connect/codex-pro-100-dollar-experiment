@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T13:40:15+08:00",
+  "updated_at": "2026-09-21T13:53:53+08:00",
   "policy": "No repeated polling without a user check request or an actual notification; continue prospecting meanwhile.",
   "items": [
     {
@@ -68,11 +68,11 @@
       "kind": "paid_scope_application",
       "source_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740676507",
       "recipient": "socksninja",
-      "status": "historically_accepted_unpaid_current_settlement_unclear",
+      "status": "settlement_clarification_sent_awaiting_reply",
       "amount_usd_proposed": 250,
       "delivery_hours_after_confirmation": 48,
       "last_verified_at": "2026-09-21T13:40:15+08:00",
-      "waiting_for": "Clarification of settlement for the already accepted historical SABLE-001 scope; independently verified receipt",
+      "waiting_for": "Buyer clarification of the original USD250 accepted-scope fee and expected payment date; independently verified receipt",
       "next_check_trigger": "User asks to check waiting items or an actual reply notification arrives",
       "buyer_confirmation_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5740699385",
       "buyer_confirmed_usd": 250,
@@ -101,7 +101,11 @@
       "current_reconfirmed_payable_usd": null,
       "amount_interpretation": "USD 250 is the historically confirmed unpaid fee, not a newly reconfirmed current payment promise. No inference that the historical agreement was cancelled.",
       "last_check_result": "Key confirmation, acceptance and settlement comments were edited on September 19 to historical/superseded model notices. Acceptance remains acknowledged; prior explicit USD250 due/payment wording is absent. No new private reply found; no receipt evidence.",
-      "latest_evidence": "evidence/sable-status-2026-09-21.json"
+      "latest_evidence": "evidence/sable-status-2026-09-21.json",
+      "settlement_clarification_url": "https://github.com/socksninja/sable-agent-reliability/issues/54#issuecomment-5756005190",
+      "settlement_clarification_sent_at": "2026-09-21T05:53:18Z",
+      "outbound_comment_readback_verified": true,
+      "last_outbound_action_at": "2026-09-21T13:53:53+08:00"
     },
     {
       "id": "laborx-sqlite-103220",
